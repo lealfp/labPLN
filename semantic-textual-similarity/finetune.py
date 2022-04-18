@@ -47,8 +47,8 @@ train_batch_size = 2
 
 DATASET = '../datasets/STS/stsbenchmark.tsv'
 
-MODEL_PATH = 'bert-base-cased'
-# MODEL_PATH = 'dmis-lab/biobert-base-cased-v1.1'
+# MODEL_PATH = 'bert-base-cased'
+MODEL_PATH = 'dmis-lab/biobert-base-cased-v1.1'
 # MODEL_PATH = 'fagner/envoy'
 OUTPUT_MODEL = 'output/' + MODEL_PATH + '/' + str(num_epochs) + 'epochs'
 
