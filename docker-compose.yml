@@ -1,0 +1,25 @@
+version: '3'
+services:
+  jupyter:
+    image: jupyter/datascience-notebook
+    # image: tensorflow/tensorflow:nightly-py3-jupyter
+
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./:/home/jovyan/
+      - models:/home/jovyan/models
+      - datasets:/home/jovyan/datasets
+    container_name: labpln-jupyter
+    networks:
+      - labpln
+
+volumes:
+  models:
+    driver: "local"
+  datasets:
+    driver: "local"
+
+networks:
+  labpln:
+    driver: bridge
