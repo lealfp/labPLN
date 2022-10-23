@@ -1,4 +1,4 @@
-export TASK=semantic-textual-similarity
+export TASK=natural-language-inference
 cd /app/src/${TASK}
 
 pip install torch

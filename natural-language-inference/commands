@@ -1,8 +1,0 @@
-cd app/natural-language-inference
-
-pip install torch
-pip install sentence_transformers
-
-python finetuning-mli.py
-
-
