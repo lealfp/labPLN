@@ -1,4 +1,5 @@
 export TASK=semantic-textual-similarity
+
 cd /app/src/${TASK}
 
 pip install torch

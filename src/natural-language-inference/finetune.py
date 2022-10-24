@@ -3,7 +3,7 @@ from torch.utils.data import DataLoader
 from sentence_transformers import InputExample, SentenceTransformer, models, losses
 from sentence_transformers.evaluation import EmbeddingSimilarityEvaluator
 
-NUM_EPOCHS = 3
+NUM_EPOCHS = 1
 BATCH_SIZE = 2
 MAX_SEQ_LENGTH = 128
 
@@ -17,11 +17,11 @@ model = SentenceTransformer(modules=[model, pooling_model])
 model.save(OUTPUT_MODEL)
 
 train_samples, dev_samples, test_samples = [],[],[]
-with open(DATASET_PATH + 'mli_train_v1.jsonl', "r") as f:
+with open(DATASET_PATH + "mli_train_v1.jsonl", 'r') as f:
     json_list = list(f)
     for j in json_list:
         row = json.loads(j)
-        gold_label = row['gold_label']
+        gold_label = row["gold_label"]
         float_gold_label = float(0)
 
         if gold_label == "contradiction": float_gold_label = 0 / 3.0
@@ -31,7 +31,7 @@ with open(DATASET_PATH + 'mli_train_v1.jsonl', "r") as f:
         inp_example = InputExample(texts=[row["sentence1"], row["sentence2"]], label=float_gold_label)
         train_samples.append(inp_example)
 
-with open(DATASET_PATH + "mli_dev_v1.jsonl", "r") as f:
+with open(DATASET_PATH + "mli_dev_v1.jsonl", 'r') as f:
     json_list = list(f)
     for j in json_list:
         row = json.loads(j)
@@ -45,7 +45,7 @@ with open(DATASET_PATH + "mli_dev_v1.jsonl", "r") as f:
         inp_example = InputExample(texts=[row["sentence1"], row["sentence2"]], label=float_gold_label)
         dev_samples.append(inp_example)
 
-with open(DATASET_PATH + "mli_test_v1.jsonl", "r") as f:
+with open(DATASET_PATH + "mli_test_v1.jsonl", 'r') as f:
     json_list = list(f)
     for j in json_list:
         row = json.loads(j)
