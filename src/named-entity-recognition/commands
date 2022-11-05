@@ -1,5 +1,0 @@
-pip install seqeval
-
-
-
-python finetune.py --save_strategy epoch
