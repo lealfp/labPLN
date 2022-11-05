@@ -1,6 +1,7 @@
+# Summary
 Repository to execute Natural Language Processing experiments. It provides two independent environments built as docker containers:
-- Jupyter notebooks
-- GPU-enabled Python container
+- Jupyter notebooks: the environment used to run Topic Attention, as described in the paper.
+- GPU-enabled Python container: an environment used to train the deep neural networks analysed on the paper.
 
 # Linux instructions to run
 
@@ -20,12 +21,12 @@ Then, start up the docker container:
 docker-compose up
 ```
 
-Once the process is done, you can access the notebook through http://127.0.0.1:8888/lab?token=[TOKEN].
+Once the process is done, you can access the notebook through http://127.0.0.1:8888/lab?token=[TOKEN]. This environment provides a jupyter notebook interface .
 
 > You must change the `[TOKEN]` keyword by the actual token displayed on the terminal
 
-To access the GPU container:
-
-```bash
- docker run --gpus all -it -v ~/git/labPLN:/app tensorflow/tensorflow:latest-gpu
-```
+> If you want to run the code in the `src` folder, then access the GPU-enabled container:
+> ```bash
+> docker run --gpus all -it -v ~/git/labPLN:/app tensorflow/tensorflow:latest-gpu
+> ```
+> From here, you must follow the instructions in README.md associated to the experiment. 
