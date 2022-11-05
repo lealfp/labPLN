@@ -3,6 +3,8 @@ Repository to execute Natural Language Processing experiments. It provides two i
 - Jupyter notebooks: the environment used to run Topic Attention, as described in the paper.
 - GPU-enabled Python container: an environment used to train the deep neural networks experimented on the paper.
 
+> Containers are used to guarantee isolated environments with the required minimal configuration to run the code. Read [docker](https://docs.docker.com/install/) e [docker-compose](https://docs.docker.com/compose/install/) documentations to install docker.
+
 ## 2. Linux instructions to run
 
 To access the containers, clone `labPLN` repository, get into it, checkout `master` branch, and build the docker image:
