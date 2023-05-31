@@ -3,7 +3,7 @@ from torch.utils.data import DataLoader
 from sentence_transformers import InputExample, SentenceTransformer, models, losses
 from sentence_transformers.evaluation import EmbeddingSimilarityEvaluator
 
-NUM_EPOCHS = 1
+NUM_EPOCHS = 10
 BATCH_SIZE = 2
 MAX_SEQ_LENGTH = 128
 

@@ -11,7 +11,7 @@ cd ~/git
 git clone https://github.com/lealfp/labPLN.git
 cd labPLN
 git pull origin master
-docker build . -t labPLN
+docker build . -t labpln
 ```
 
 Then, start up the docker container:
