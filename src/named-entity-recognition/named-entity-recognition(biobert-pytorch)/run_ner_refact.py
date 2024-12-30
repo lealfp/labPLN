@@ -145,6 +145,8 @@ def main():
     # training_args.save_steps = 32
 
     # Setup logging
+    print(model_args)
+    print(data_args, training_args)
     logging.basicConfig(
         format="%(asctime)s - %(levelname)s - %(name)s -   %(message)s",
         datefmt="%m/%d/%Y %H:%M:%S",
@@ -312,10 +314,6 @@ def main():
         # print(model_args)
         # print(training_args)
         # trainer.resize_token_embeddings(len(tokenizer))
-
-        tokens = ["dyspnea", "fagner", "jessica"]
-        word_embedding_model.tokenizer.add_tokens(tokens, special_tokens=True)
-        word_embedding_model.auto_model.resize_token_embeddings(len(word_embedding_model.tokenizer))
 
         trainer.train(model_path=model_args.model_name_or_path if os.path.isdir(model_args.model_name_or_path) else None)
         trainer.save_model()

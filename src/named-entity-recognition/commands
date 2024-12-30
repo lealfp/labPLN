@@ -1,5 +1,12 @@
 pip install seqeval
+pip install torch
+pip install transformers
+pip install pandas
 
 
 
-python finetune.py --save_strategy epoch
+export DATA_DIR=../datasets/NER
+export ENTITY=ACD
+
+
+python finetune.py --data_dir ${DATA_DIR}/${ENTITY} --output_dir output/${ENTITY} --model_name_or_path ../../models/fagner/envoy --save_strategy epoch 
