@@ -1,8 +1,16 @@
 datasets/
+models/
 src/semantic-textual-similarity/output/
-
-
-
+notebooks/datasets
+notebooks/hypernym_classification/archive.zip
+notebooks/ner/data/
+notebooks/topic_modeling/output-com-erro-no-codigo-coerencia/
+notebooks/topic_modeling/output-prerelease-jucs/
+notebooks/topic_modeling/output/
+notebooks/tsv_files/fagner/
+notebooks/tsv_files/from_embeddings_to_tsv/output_from_1(test)/
+notebooks/tsv_files/from_embeddings_to_tsv/output_from_1/
+notebooks/code_snippets/imgs/
 
 
 # Byte-compiled / optimized / DLL files
@@ -134,3 +142,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
