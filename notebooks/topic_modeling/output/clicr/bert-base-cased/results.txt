@@ -1,0 +1,1667 @@
+Hyper-parameters: 
+{Language Model: bert-base-cased, Distance Threshold: 100, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 2, Vocabulary length: 9091, Total Coherence: 0.568114283619924}
+
+Topic 0
+Number of sentences: 8470
+Coherence: 0.6111534371018952
+Top Words: ['aneurysm', 'dissection', 'immunocompetent', 'gastrointestinal', 'cystic', 'cardiomyopathy', 'arteriovenous', 'diffuse', 'ruptured', 'uterine']
+
+Topic 1
+Number of sentences: 2069
+Coherence: 0.5250751301379528
+Top Words: ['my', 'fahr', 'doctor', 'lies', 'much', 'van', 'sports', 'happy', 'trenaunay', 'roux']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: bert-base-cased, Distance Threshold: 40, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 10, Vocabulary length: 12102, Total Coherence: 0.5107492279695958}
+
+Topic 0
+Number of sentences: 1600
+Coherence: 0.5496028773890247
+Top Words: ['in', 'with', 'disease', 'case', 'unusual', 'rare', 'cause', 'presentation', 'as', 'for']
+
+Topic 1
+Number of sentences: 1406
+Coherence: 0.4271990410015096
+Top Words: ['in', 'with', 'case', 'for', 'as', 'literature', 'report', 'acute', 'by', 'treatment']
+
+Topic 2
+Number of sentences: 2047
+Coherence: 0.5464679959541242
+Top Words: ['in', 'with', 'artery', 'aneurysm', 'following', 'for', 'coronary', 'acute', 'as', 'rare']
+
+Topic 3
+Number of sentences: 2159
+Coherence: 0.5069056519915245
+Top Words: ['in', 'with', 'rare', 'as', 'cell', 'carcinoma', 'case', 'presentation', 'acute', 'cause']
+
+Topic 4
+Number of sentences: 278
+Coherence: 0.5804111939080887
+Top Words: ['year', 'old', 'in', 'with', 'boy', 'woman', 'girl', 'month', 'child', 'presenting']
+
+Topic 5
+Number of sentences: 843
+Coherence: 0.5669575709038204
+Top Words: ['with', 'in', 'treatment', 'for', 'acute', 'use', 'therapy', 'following', 'associated', 'intravenous']
+
+Topic 6
+Number of sentences: 780
+Coherence: 0.5589351854395562
+Top Words: ['in', 'with', 'cyst', 'thrombosis', 'artery', 'left', 'fistula', 'presenting', 'sinus', 'as']
+
+Topic 7
+Number of sentences: 957
+Coherence: 0.543691598495492
+Top Words: ['in', 'with', 'as', 'presenting', 'rare', 'case', 'unusual', 'acute', 'secondary', 'bilateral']
+
+Topic 8
+Number of sentences: 395
+Coherence: 0.3873353748587942
+Top Words: ['in', 'not', 'with', 'it', 'case', 'for', 'unusual', 'or', 'can', 'always']
+
+Topic 9
+Number of sentences: 74
+Coherence: 0.4399857897540234
+Top Words: ['lies', 'situation', 'beneath', 'what', 'old', 'around', 'bulk', 'freshwater', 'eighteen', 'dipping']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: bert-base-cased, Distance Threshold: 80, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 3, Vocabulary length: 10260, Total Coherence: 0.5613714043284914}
+
+Topic 0
+Number of sentences: 2069
+Coherence: 0.5007588481965962
+Top Words: ['mental', 'guillain', 'your', 'still', 'illness', 'kikuchi', 'barr', 'this', 'about', 'forget']
+
+Topic 1
+Number of sentences: 4686
+Coherence: 0.5794894115108373
+Top Words: ['immunocompetent', 'cardiomyopathy', 'cystic', 'diffuse', 'mutation', 'intravenous', 'month', 'autoimmune', 'chemotherapy', 'staphylococcus']
+
+Topic 2
+Number of sentences: 3784
+Coherence: 0.6038659532780408
+Top Words: ['aneurysm', 'dissection', 'arteriovenous', 'gastrointestinal', 'ruptured', 'occlusion', 'inferior', 'uterine', 'vertebral', 'maxillary']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: bert-base-cased, Distance Threshold: 62, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 4, Vocabulary length: 11611, Total Coherence: 0.5327058917731458}
+
+Topic 0
+Number of sentences: 4686
+Coherence: 0.5794894115108372
+Top Words: ['year', 'treatment', 'carcinoma', 'associated', 'cancer', 'pulmonary', 'literature', 'severe', 'lymphoma', 'chronic']
+
+Topic 1
+Number of sentences: 469
+Coherence: 0.4526103625025793
+Top Words: ['never', 'about', 'altered', 'still', 'your', 'my', 'lies', 'doctor', 'batteries', 'many']
+
+Topic 2
+Number of sentences: 3784
+Coherence: 0.5534213429014903
+Top Words: ['aneurysm', 'bilateral', 'spontaneous', 'pulmonary', 'dissection', 'aortic', 'obstruction', 'haemorrhage', 'associated', 'thrombosis']
+
+Topic 3
+Number of sentences: 1600
+Coherence: 0.5453024501776762
+Top Words: ['treatment', 'pulmonary', 'associated', 'severe', 'cancer', 'recurrent', 'findings', 'deficiency', 'chronic', 'failure']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: bert-base-cased, Distance Threshold: 80, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 3, Vocabulary length: 10260, Total Coherence: 0.5613714043284914}
+
+Topic 0
+Number of sentences: 2069
+Coherence: 0.5007588481965962
+Top Words: ['mental', 'guillain', 'your', 'still', 'illness', 'kikuchi', 'barr', 'this', 'about', 'forget']
+
+Topic 1
+Number of sentences: 4686
+Coherence: 0.5794894115108373
+Top Words: ['immunocompetent', 'cardiomyopathy', 'cystic', 'diffuse', 'mutation', 'intravenous', 'month', 'autoimmune', 'chemotherapy', 'staphylococcus']
+
+Topic 2
+Number of sentences: 3784
+Coherence: 0.6038659532780408
+Top Words: ['aneurysm', 'dissection', 'arteriovenous', 'gastrointestinal', 'ruptured', 'occlusion', 'inferior', 'uterine', 'vertebral', 'maxillary']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: bert-base-cased, Distance Threshold: 13, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 117, Vocabulary length: 12132, Total Coherence: 0.4195847121490621}
+
+Topic 0
+Number of sentences: 200
+Coherence: 0.4171802769108785
+Top Words: ['of', 'syndrome', 'in', 'with', 'disease', 'the', 'patient', 'rare', 'and', 'an']
+
+Topic 1
+Number of sentences: 217
+Coherence: 0.37057726898694554
+Top Words: ['of', 'dissection', 'artery', 'the', 'in', 'abscess', 'carotid', 'venous', 'aortic', 'embolism']
+
+Topic 2
+Number of sentences: 67
+Coherence: 0.41974203099808866
+Top Words: ['the', 'of', 'in', 'to', 'loop', 'coarctation', 'inversions', 'user', 'gap', 'wave']
+
+Topic 3
+Number of sentences: 172
+Coherence: 0.5068265393142168
+Top Words: ['of', 'in', 'with', 'patient', 'and', 'retroperitoneal', 'an', 'following', 'artery', 'anaesthesia']
+
+Topic 4
+Number of sentences: 95
+Coherence: 0.3069087869136084
+Top Words: ['limbal', 'transplantation', 'of', 'epithelial', 'stem', 'for', 'simple', 'metal', 'management', 'arthroplasty']
+
+Topic 5
+Number of sentences: 213
+Coherence: 0.5199798655614949
+Top Words: ['of', 'in', 'with', 'the', 'use', 'and', 'treatment', 'patient', 'for', 'induced']
+
+Topic 6
+Number of sentences: 120
+Coherence: 0.5069797162975137
+Top Words: ['in', 'an', 'young', 'woman', 'with', 'of', 'patient', 'man', 'child', 'nigerian']
+
+Topic 7
+Number of sentences: 49
+Coherence: 0.4731398966339767
+Top Words: ['pancreatitis', 'leukaemia', 'myeloid', 'acute', 'of', 'lymphoblastic', 'in', 'chronic', 'hypertriglyceridaemia', 'complication']
+
+Topic 8
+Number of sentences: 209
+Coherence: 0.3198131791643401
+Top Words: ['of', 'the', 'artery', 'and', 'with', 'left', 'in', 'palsy', 'to', 'coronary']
+
+Topic 9
+Number of sentences: 114
+Coherence: 0.4578604275077399
+Top Words: ['mutation', 'in', 'with', 'of', 'gene', 'h1n1', 'and', 'influenza', 'syndrome', 'novel']
+
+Topic 10
+Number of sentences: 42
+Coherence: 0.4082496451672766
+Top Words: ['the', 'of', 'mass', 'an', 'body', 'masquerading', 'foreign', 'unusual', 'nose', 'aspergilloma']
+
+Topic 11
+Number of sentences: 69
+Coherence: 0.3899730318759443
+Top Words: ['mandibular', 'of', 'maxillary', 'the', 'mandible', 'molar', 'supernumerary', 'palate', 'lateral', 'incisor']
+
+Topic 12
+Number of sentences: 167
+Coherence: 0.4276413128349262
+Top Words: ['sclerosis', 'cysticercosis', 'with', 'of', 'xanthogranulomatous', 'orthodeoxia', 'in', 'tuberous', 'myofibroblastic', 'mimicking']
+
+Topic 13
+Number of sentences: 296
+Coherence: 0.49195484280792473
+Top Words: ['of', 'rare', 'cause', 'and', 'an', 'manifestation', 'in', 'complication', 'the', 'as']
+
+Topic 14
+Number of sentences: 98
+Coherence: 0.4449451709573061
+Top Words: ['streptococcus', 'staphylococcus', 'aureus', 'methicillin', 'mycobacterium', 'difficile', 'infection', 'of', 'clostridium', 'in']
+
+Topic 15
+Number of sentences: 82
+Coherence: 0.3753275504512827
+Top Words: ['masquerading', 'of', 'haemophilia', 'as', 'in', 'haemoptysis', 'an', 'case', 'eosinophilic', 'pulmonary']
+
+Topic 16
+Number of sentences: 78
+Coherence: 0.3388184984847171
+Top Words: ['in', 'of', 'the', 'care', 'pregnancy', 'with', 'palliative', 'case', 'to', 'treatment']
+
+Topic 17
+Number of sentences: 22
+Coherence: 0.35514816151512946
+Top Words: ['doctor', 'my', 'constipation', 'is', 'all', 'the', 'foxed', 'ladakhi', 'swimming', 'saturday']
+
+Topic 18
+Number of sentences: 40
+Coherence: 0.44207900393894695
+Top Words: ['sign', 'double', 'appendix', 'tongue', 'elephant', 'freshwater', 'eaten', 'eighteen', 'postendoscopy', 'fungating']
+
+Topic 19
+Number of sentences: 73
+Coherence: 0.35032853364232974
+Top Words: ['intussusception', 'urinary', 'in', 'of', 'vaginal', 'jejunojejunal', 'intrauterine', 'the', 'bladder', 'adult']
+
+Topic 20
+Number of sentences: 62
+Coherence: 0.4794152156104404
+Top Words: ['syndrome', 'deficiency', 'dysphagia', 'of', 'and', 'pancytopenia', 'in', 'with', 'q22', 'folate']
+
+Topic 21
+Number of sentences: 225
+Coherence: 0.5059869677694736
+Top Words: ['of', 'to', 'and', 'cholecystectomy', 'as', 'cholecystitis', 'with', 'presenting', 'secondary', 'laparoscopic']
+
+Topic 22
+Number of sentences: 177
+Coherence: 0.43481011748314763
+Top Words: ['of', 'in', 'with', 'treatment', 'choroidal', 'for', 'treated', 'and', 'to', 'intravitreal']
+
+Topic 23
+Number of sentences: 135
+Coherence: 0.5816555136834993
+Top Words: ['rare', 'of', 'tumour', 'presentation', 'cyst', 'entity', 'an', 'the', 'carcinoma', 'unusual']
+
+Topic 24
+Number of sentences: 28
+Coherence: 0.3353377625121122
+Top Words: ['just', 'altered', 'clue', 'an', 'unexpected', 'twist', 'the', 'clues', 'burn', 'mental']
+
+Topic 25
+Number of sentences: 65
+Coherence: 0.5289088199558971
+Top Words: ['old', 'year', 'in', 'man', 'woman', 'with', 'boy', 'of', 'an', '66']
+
+Topic 26
+Number of sentences: 95
+Coherence: 0.4491876647111739
+Top Words: ['the', 'is', 'it', 'of', 'not', 'about', 'do', 'always', 'in', 'that']
+
+Topic 27
+Number of sentences: 89
+Coherence: 0.4831245319834213
+Top Words: ['cancer', 'of', 'metastasis', 'breast', 'metastases', 'carcinoma', 'in', 'with', 'metastatic', 'prostate']
+
+Topic 28
+Number of sentences: 10
+Coherence: 0.4879188850050157
+Top Words: ['sorry', 'snowboarders', 'strong', 'string', 'sarcoid', 'genital', 'ankle', 'scar', 'caesarean', 'test']
+
+Topic 29
+Number of sentences: 58
+Coherence: 0.5204163696041713
+Top Words: ['psychosis', 'disorder', 'of', 'in', 'and', 'bipolar', 'with', 'hallucinations', 'visual', 'behavioural']
+
+Topic 30
+Number of sentences: 100
+Coherence: 0.5508205056674012
+Top Words: ['neurofibromatosis', 'autoimmune', 'neuropathy', 'with', 'in', 'type', 'optic', 'of', 'patient', 'and']
+
+Topic 31
+Number of sentences: 194
+Coherence: 0.5917720128255456
+Top Words: ['of', 'fistula', 'arteriovenous', 'the', 'with', 'and', 'dural', 'in', 'right', 'anterior']
+
+Topic 32
+Number of sentences: 149
+Coherence: 0.352473250145226
+Top Words: ['of', 'osteogenesis', 'in', 'and', 'imperfecta', 'with', 'spontaneous', 'fistula', 'haematoma', 'ankylosing']
+
+Topic 33
+Number of sentences: 46
+Coherence: 0.36181235584037896
+Top Words: ['injury', 'sports', 'traumatic', 'pong', 'ping', 'fracture', 'penetrating', 'playing', 'wii', 'amputation']
+
+Topic 34
+Number of sentences: 162
+Coherence: 0.42795012244072395
+Top Words: ['with', 'thrombocytopenic', 'purpura', 'and', 'of', 'in', 'lymphohistiocytosis', 'haemophagocytic', 'polyangiitis', 'granulomatosis']
+
+Topic 35
+Number of sentences: 80
+Coherence: 0.39648327604712263
+Top Words: ['fracture', 'of', 'dislocation', 'fixation', 'the', 'injury', 'in', 'and', 'anterior', 'avulsion']
+
+Topic 36
+Number of sentences: 140
+Coherence: 0.36077656766091415
+Top Words: ['aneurysm', 'aortic', 'artery', 'of', 'ruptured', 'aneurysms', 'rupture', 'an', 'coronary', 'with']
+
+Topic 37
+Number of sentences: 86
+Coherence: 0.4497805676292962
+Top Words: ['of', 'vertebral', 'osteomyelitis', 'with', 'tracheostomy', 'the', 'mitral', 'and', 'arthroplasty', 'joint']
+
+Topic 38
+Number of sentences: 55
+Coherence: 0.5567088837660668
+Top Words: ['it', 'is', 'the', 'what', 'or', 'an', 'treat', 'much', 'be', 'and']
+
+Topic 39
+Number of sentences: 105
+Coherence: 0.3850516810351105
+Top Words: ['of', 'schwannoma', 'in', 'hernia', 'the', 'en', 'roux', 'bochdalek', 'and', 'garengeot']
+
+Topic 40
+Number of sentences: 46
+Coherence: 0.34655554982352144
+Top Words: ['of', 'an', 'unusual', 'pain', 'rare', 'common', 'cause', 'disease', 'case', 'uncommon']
+
+Topic 41
+Number of sentences: 71
+Coherence: 0.2573766408333501
+Top Words: ['induced', 'inhibitor', 'ace', 'angio', 'thrombocytopenia', 'in', 'rhabdomyolysis', 'interaction', 'toxicity', 'anaphylaxis']
+
+Topic 42
+Number of sentences: 140
+Coherence: 0.4593235841493744
+Top Words: ['in', 'of', 'with', 'and', 'plasmodium', 'bacteraemia', 'to', 'infection', 'an', 'fulminans']
+
+Topic 43
+Number of sentences: 73
+Coherence: 0.3527605214836601
+Top Words: ['of', 'optical', 'tomography', 'coherence', 'in', 'dimensional', 'domain', 'spectral', 'laser', 'using']
+
+Topic 44
+Number of sentences: 50
+Coherence: 0.29490755732024604
+Top Words: ['ingestion', 'of', 'intoxication', 'overdose', 'poisoning', 'glycol', 'acute', 'ethylene', 'perforation', 'fatal']
+
+Topic 45
+Number of sentences: 117
+Coherence: 0.3771829532165425
+Top Words: ['fasciitis', 'endocarditis', 'necrotising', 'of', 'gravis', 'klebsiella', 'alveolar', 'myasthenia', 'in', 'valve']
+
+Topic 46
+Number of sentences: 75
+Coherence: 0.4243383891546305
+Top Words: ['of', 'the', 'pulmonary', 'finger', 'to', 'embolism', 'incidentally', 'in', 'lesions', 'injury']
+
+Topic 47
+Number of sentences: 37
+Coherence: 0.46776494357780657
+Top Words: ['vasculitis', 'dysplasia', 'buccal', 'mucosa', 'fibrosis', 'of', 'cystic', 'fibromuscular', 'leucocytoclastic', 'fibrous']
+
+Topic 48
+Number of sentences: 113
+Coherence: 0.44728853494995874
+Top Words: ['of', 'the', 'an', 'dysplasia', 'diagnostic', 'in', 'clinical', 'and', 'lesson', 'finding']
+
+Topic 49
+Number of sentences: 141
+Coherence: 0.5089270934844318
+Top Words: ['old', 'year', 'in', 'boy', 'girl', 'with', 'man', 'month', 'of', 'and']
+
+Topic 50
+Number of sentences: 63
+Coherence: 0.5085539978631306
+Top Words: ['the', 'of', 'solitary', 'in', 'embryoid', 'circumscriptum', 'fistula', 'schwannoma', 'mass', 'cocoon']
+
+Topic 51
+Number of sentences: 67
+Coherence: 0.421001755465232
+Top Words: ['the', 'of', 'cruciate', 'ligament', 'rupture', 'tendon', 'medial', 'fracture', 'tibial', 'simultaneous']
+
+Topic 52
+Number of sentences: 49
+Coherence: 0.28882282264434594
+Top Words: ['crohn', 'disease', 'barr', 'epstein', 'creutzfeldt', 'jakob', 'in', 'virus', 'with', 'sporadic']
+
+Topic 53
+Number of sentences: 49
+Coherence: 0.4667126457820328
+Top Words: ['of', 'an', 'case', 'report', 'rare', 'symptom', 'clinical', 'diagnosis', 'unusual', 'syndrome']
+
+Topic 54
+Number of sentences: 152
+Coherence: 0.4988752031436804
+Top Words: ['carcinoma', 'cell', 'adenocarcinoma', 'of', 'metastasis', 'squamous', 'with', 'in', 'renal', 'the']
+
+Topic 55
+Number of sentences: 71
+Coherence: 0.43750178254170685
+Top Words: ['of', 'with', 'in', 'injury', 'an', 'and', 'young', 'case', 'patient', 'presentation']
+
+Topic 56
+Number of sentences: 97
+Coherence: 0.3956127759936985
+Top Words: ['the', 'of', 'in', 'tumour', 'glomus', 'neuroectodermal', 'left', 'lymphangioma', 'giant', 'varicose']
+
+Topic 57
+Number of sentences: 186
+Coherence: 0.5053759529577818
+Top Words: ['in', 'with', 'patient', 'of', 'syndrome', 'the', 'an', 'and', 'myeloma', 'deficiency']
+
+Topic 58
+Number of sentences: 56
+Coherence: 0.49097420039427864
+Top Words: ['pseudoaneurysm', 'hyperphosphatemic', 'tumoural', 'calcinosis', 'coccidioidomycosis', 'lipoleiomyoma', 'chorioretinopathy', 'herpetic', 'artery', 'panniculitis']
+
+Topic 59
+Number of sentences: 214
+Coherence: 0.4259782959074939
+Top Words: ['of', 'in', 'the', 'and', 'with', 'for', 'ct', 'tomography', 'patient', 'an']
+
+Topic 60
+Number of sentences: 159
+Coherence: 0.4747923073262509
+Top Words: ['of', 'in', 'obstructive', 'and', 'apnoea', 'with', 'for', 'sleep', 'jaundice', 'to']
+
+Topic 61
+Number of sentences: 208
+Coherence: 0.5167156776774503
+Top Words: ['with', 'in', 'of', 'and', 'patient', 'treatment', 'induced', 'to', 'anti', 'therapy']
+
+Topic 62
+Number of sentences: 87
+Coherence: 0.5296398603420489
+Top Words: ['vitamin', 'deficiency', 'multidrug', 'induced', 'igg4', 'resistant', 'mimicking', 'to', 'leptomeningeal', 'disease']
+
+Topic 63
+Number of sentences: 237
+Coherence: 0.381303361411087
+Top Words: ['of', 'with', 'in', 'and', 'patient', 'the', 'for', 'treatment', 'carcinoma', 'haemorrhage']
+
+Topic 64
+Number of sentences: 35
+Coherence: 0.36851983286530904
+Top Words: ['diabetic', 'of', 'misdiagnosed', 'ketoacidosis', 'underdiagnosed', 'diagnosing', 'misdiagnosis', 'diagnostic', 'an', 'in']
+
+Topic 65
+Number of sentences: 122
+Coherence: 0.35525916146113806
+Top Words: ['of', 'in', 'and', 'with', 'an', 'cause', 'seizures', 'neonatal', 'as', 'the']
+
+Topic 66
+Number of sentences: 33
+Coherence: 0.3659298946455904
+Top Words: ['poisoning', 'trimethoprim', 'sulfamethoxazole', 'of', 'cyanide', 'hydroxychloroquine', 'hydroxocobalamin', 'organophosphate', 'pointes', 'torsades']
+
+Topic 67
+Number of sentences: 104
+Coherence: 0.5116967725141183
+Top Words: ['oesophageal', 'of', 'rheumatoid', 'in', 'haemorrhage', 'arthritis', 'with', 'and', 'to', 'malformation']
+
+Topic 68
+Number of sentences: 68
+Coherence: 0.35309985494460505
+Top Words: ['ectopic', 'laparoscopic', 'pregnancy', 'following', 'tubal', 'after', 'hysterectomy', 'cerclage', 'pneumonectomy', 'transabdominal']
+
+Topic 69
+Number of sentences: 42
+Coherence: 0.3942438553867452
+Top Words: ['pneumoperitoneum', 'pneumomediastinum', 'pneumothorax', 'pneumocystis', 'of', 'pneumocephalus', 'tension', 'jiroveci', 'spontaneous', 'in']
+
+Topic 70
+Number of sentences: 114
+Coherence: 0.4630571631183368
+Top Words: ['of', 'in', 'and', 'for', 'the', 'technique', 'with', 'syndromic', 'using', 'permanent']
+
+Topic 71
+Number of sentences: 131
+Coherence: 0.4676151721291951
+Top Words: ['literature', 'review', 'of', 'report', 'and', 'case', 'the', 'in', 'with', 'carcinoma']
+
+Topic 72
+Number of sentences: 23
+Coherence: 0.23660064629997124
+Top Words: ['artery', 'coronary', 'left', 'circumflex', 'anomalous', 'descending', 'right', 'origin', 'of', 'the']
+
+Topic 73
+Number of sentences: 32
+Coherence: 0.2790625521828532
+Top Words: ['intravenous', 'user', 'immunoglobulin', 'drug', 'in', 'administration', 'with', 'of', 'an', 'to']
+
+Topic 74
+Number of sentences: 88
+Coherence: 0.4387260530575506
+Top Words: ['haemorrhage', 'subarachnoid', 'in', 'of', 'haemorrhagic', 'haemorrhages', 'spontaneous', 'with', 'and', 'subdural']
+
+Topic 75
+Number of sentences: 31
+Coherence: 0.3330937767249821
+Top Words: ['syndrome', 'sarcina', 'tuberculosis', 'disease', 'peeling', 'di', 'glassidium', 'sala', 'bomb', 'brokenosis']
+
+Topic 76
+Number of sentences: 67
+Coherence: 0.47216535432078377
+Top Words: ['malignant', 'malignancy', 'of', 'melanoma', 'mesothelioma', 'pleural', 'and', 'dysplasia', 'with', 'presentation']
+
+Topic 77
+Number of sentences: 65
+Coherence: 0.3379996008407289
+Top Words: ['coronary', 'artery', 'dissection', 'intervention', 'of', 'with', 'percutaneous', 'in', 'acute', 'patient']
+
+Topic 78
+Number of sentences: 30
+Coherence: 0.3837896655041586
+Top Words: ['adrenal', 'insufficiency', 'hyperplasia', 'adenoma', 'congenital', 'of', 'with', 'in', 'gland', 'haemorrhage']
+
+Topic 79
+Number of sentences: 91
+Coherence: 0.40090235764691984
+Top Words: ['of', 'the', 'and', 'in', 'health', 'management', 'mental', 'approach', 'multidisciplinary', 'importance']
+
+Topic 80
+Number of sentences: 64
+Coherence: 0.5307401560177306
+Top Words: ['carcinoma', 'cell', 'of', 'lung', 'tumour', 'presenting', 'with', 'breast', 'adenoid', 'small']
+
+Topic 81
+Number of sentences: 124
+Coherence: 0.46641531787610485
+Top Words: ['of', 'the', 'and', 'in', 'with', 'cyst', 'mucinous', 'carcinoma', 'review', 'an']
+
+Topic 82
+Number of sentences: 21
+Coherence: 0.461917716217571
+Top Words: ['unusual', 'of', 'cause', 'scrotal', 'atelectasis', 'obscuration', 'tendoachilles', 'unclassified', 'hemimelia', 'intraorbital']
+
+Topic 83
+Number of sentences: 86
+Coherence: 0.492633689144718
+Top Words: ['encephalopathy', 'reversible', 'encephalitis', 'posterior', 'leucoencephalopathy', 'in', 'with', 'syndrome', 'panencephalitis', 'leukoencephalopathy']
+
+Topic 84
+Number of sentences: 49
+Coherence: 0.31107453535743473
+Top Words: ['lymphoma', 'cell', 'diffuse', 'large', 'lymphoblastic', 'of', 'in', 'primary', 'with', 'leukaemia']
+
+Topic 85
+Number of sentences: 54
+Coherence: 0.2750573596440313
+Top Words: ['volvulus', 'of', 'meckel', 'calcification', 'diverticulum', 'schonlein', 'calcified', 'lichen', 'henoch', 'purpura']
+
+Topic 86
+Number of sentences: 30
+Coherence: 0.38469984478030883
+Top Words: ['cyst', 'hydatid', 'cysts', 'of', 'epidermoid', 'dermoid', 'pancreas', 'periodontal', 'the', 'mimicking']
+
+Topic 87
+Number of sentences: 79
+Coherence: 0.43120500461194355
+Top Words: ['of', 'the', 'carcinoma', 'adenocarcinoma', 'cervix', 'uterine', 'uterus', 'oesophagus', 'cell', 'metastasis']
+
+Topic 88
+Number of sentences: 31
+Coherence: 0.3839809434438525
+Top Words: ['malformation', 'arteriovenous', 'of', 'galen', 'arterio', 'venous', 'vein', 'cavernous', 'malformations', 'vascular']
+
+Topic 89
+Number of sentences: 56
+Coherence: 0.4952514367429151
+Top Words: ['disease', 'behçet', 'paget', 'syndrome', 'wilson', 'presenting', 'with', 'in', 'as', 'of']
+
+Topic 90
+Number of sentences: 145
+Coherence: 0.5080702708946785
+Top Words: ['the', 'of', 'in', 'and', 'with', 'an', 'syndrome', 'or', 'to', 'your']
+
+Topic 91
+Number of sentences: 105
+Coherence: 0.39455724299949646
+Top Words: ['obstruction', 'bowel', 'intestinal', 'small', 'of', 'occlusion', 'causing', 'in', 'to', 'malrotation']
+
+Topic 92
+Number of sentences: 23
+Coherence: 0.33162528799320456
+Top Words: ['appendicitis', 'acute', 'appendix', 'of', 'vermicularis', 'caecal', 'appendicular', 'enterobius', 'mimicking', 'the']
+
+Topic 93
+Number of sentences: 95
+Coherence: 0.4435687451643838
+Top Words: ['of', 'in', 'the', 'with', 'patient', 'and', 'for', 'paediatric', 'management', 'care']
+
+Topic 94
+Number of sentences: 32
+Coherence: 0.3301950150390051
+Top Words: ['cardiomyopathy', 'takotsubo', 'dilated', 'of', 'in', 'with', 'reversible', 'tako', 'tsubo', 'cardioembolic']
+
+Topic 95
+Number of sentences: 66
+Coherence: 0.323989976680786
+Top Words: ['in', 'hepatitis', 'hiv', 'with', 'of', 'mellitus', 'infected', 'patient', 'infection', 'diabetes']
+
+Topic 96
+Number of sentences: 52
+Coherence: 0.4978886163792409
+Top Words: ['in', 'neonate', 'preterm', 'of', 'pregnancy', 'trimester', 'rupture', 'gestation', 'woman', 'spontaneous']
+
+Topic 97
+Number of sentences: 65
+Coherence: 0.11086715636057369
+Top Words: ['syndrome', 'of', 'in', 'davidoff', 'dyke', 'masson', 'guillain', 'ellis', 'hauser', 'küster']
+
+Topic 98
+Number of sentences: 42
+Coherence: 0.4675258867753433
+Top Words: ['haemorrhagica', 'chilblain', 'meconium', 'arborescens', 'zoster', 'herpes', 'bullosa', 'haemoperitoneum', 'mimicker', 'angina']
+
+Topic 99
+Number of sentences: 103
+Coherence: 0.3677275632948761
+Top Words: ['the', 'of', 'in', 'not', 'botulism', 'an', 'rhinolith', 'still', 'poisoning', 'it']
+
+Topic 100
+Number of sentences: 68
+Coherence: 0.3951225410396453
+Top Words: ['the', 'of', 'compound', 'odontoma', 'gallstone', 'in', 'ileus', 'an', 'with', 'dentigerous']
+
+Topic 101
+Number of sentences: 53
+Coherence: 0.38879328236430055
+Top Words: ['thrombosis', 'vein', 'sinus', 'venous', 'cavernous', 'carotid', 'artery', 'internal', 'deep', 'and']
+
+Topic 102
+Number of sentences: 170
+Coherence: 0.46873193727885754
+Top Words: ['in', 'with', 'patient', 'of', 'erythematosus', 'lupus', 'and', 'streptococcal', 'systemic', 'cryptococcal']
+
+Topic 103
+Number of sentences: 35
+Coherence: 0.3416084343862089
+Top Words: ['intracranial', 'hypertension', 'idiopathic', 'hypotension', 'of', 'in', 'with', 'dural', 'transverse', 'tuberculomas']
+
+Topic 104
+Number of sentences: 25
+Coherence: 0.2862309765517046
+Top Words: ['hodgkin', 'lymphoma', 'non', 'of', 'in', 'primary', 'rare', 'extranodal', 'involvement', 'presentation']
+
+Topic 105
+Number of sentences: 56
+Coherence: 0.4938368903707765
+Top Words: ['cause', 'of', 'an', 'rare', 'unusual', 'pain', 'in', 'for', 'acute', 'chilaiditi']
+
+Topic 106
+Number of sentences: 100
+Coherence: 0.43730372633345593
+Top Words: ['hyponatraemia', 'with', 'hypoglycaemia', 'hyperparathyroidism', 'of', 'hypothyroidism', 'hypomagnesaemia', 'hypokalaemic', 'and', 'in']
+
+Topic 107
+Number of sentences: 72
+Coherence: 0.4654717754443586
+Top Words: ['old', 'year', 'in', 'with', 'boy', 'of', 'and', 'woman', 'man', 'month']
+
+Topic 108
+Number of sentences: 87
+Coherence: 0.45302667863479174
+Top Words: ['immunocompetent', 'in', 'an', 'immunocompromised', 'host', 'patient', 'individual', 'of', 'abscess', 'infection']
+
+Topic 109
+Number of sentences: 23
+Coherence: 0.31855253241670434
+Top Words: ['bilateral', 'unilateral', 'congenita', 'arthrogryposis', 'multiplex', 'ptosis', 'glaucoma', 'torsion', 'testicular', 'pleuropulmonary']
+
+Topic 110
+Number of sentences: 30
+Coherence: 0.4278797329271244
+Top Words: ['gastrointestinal', 'stromal', 'bleeding', 'upper', 'tumour', 'bleed', 'gist', 'in', 'of', 'tract']
+
+Topic 111
+Number of sentences: 24
+Coherence: 0.3883139559389809
+Top Words: ['situation', 'beneath', 'lies', 'what', 'around', 'rats', 'bulk', 'comes', 'bother', 'thickened']
+
+Topic 112
+Number of sentences: 38
+Coherence: 0.41527383606936086
+Top Words: ['the', 'of', 'tale', 'trust', 'his', 'truth', 'mystery', 'men', 'heart', 'eyes']
+
+Topic 113
+Number of sentences: 59
+Coherence: 0.4144190300424452
+Top Words: ['of', 'in', 'induced', 'and', 'after', 'following', 'the', 'treatment', 'therapy', 'failure']
+
+Topic 114
+Number of sentences: 58
+Coherence: 0.41628621659727977
+Top Words: ['of', 'ketoacidosis', 'and', 'cardiomyopathy', 'diabetic', 'hypertrophic', 'cholestasis', 'severe', 'cardiac', 'hypothyroidism']
+
+Topic 115
+Number of sentences: 151
+Coherence: 0.5561663460796004
+Top Words: ['in', 'of', 'with', 'patient', 'and', 'the', 'fibrillation', 'rupture', 'an', 'palate']
+
+Topic 116
+Number of sentences: 50
+Coherence: 0.4114887311190302
+Top Words: ['myocardial', 'infarction', 'acute', 'coronary', 'ventricular', 'st', 'elevation', 'in', 'and', 'left']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: bert-base-cased, Distance Threshold: 80, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 3, Vocabulary length: 10260, Total Coherence: 0.5613714043284914}
+
+Topic 0
+Number of sentences: 2069
+Coherence: 0.5007588481965962
+Top Words: ['mental', 'guillain', 'your', 'still', 'illness', 'kikuchi', 'barr', 'this', 'about', 'forget']
+
+Topic 1
+Number of sentences: 4686
+Coherence: 0.5794894115108373
+Top Words: ['immunocompetent', 'cardiomyopathy', 'cystic', 'diffuse', 'mutation', 'intravenous', 'month', 'autoimmune', 'chemotherapy', 'staphylococcus']
+
+Topic 2
+Number of sentences: 3784
+Coherence: 0.6038659532780408
+Top Words: ['aneurysm', 'dissection', 'arteriovenous', 'gastrointestinal', 'ruptured', 'occlusion', 'inferior', 'uterine', 'vertebral', 'maxillary']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: bert-base-cased, Distance Threshold: 15, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 75, Vocabulary length: 12132, Total Coherence: 0.43968007181874036}
+
+Topic 0
+Number of sentences: 295
+Coherence: 0.40319546024281677
+Top Words: ['of', 'the', 'with', 'and', 'in', 'artery', 'to', 'left', 'palsy', 'vertebral']
+
+Topic 1
+Number of sentences: 292
+Coherence: 0.4396074046987112
+Top Words: ['of', 'dissection', 'the', 'malformation', 'in', 'artery', 'appendicitis', 'unusual', 'abscess', 'venous']
+
+Topic 2
+Number of sentences: 50
+Coherence: 0.44207900393894695
+Top Words: ['sign', 'double', 'appendix', 'concha', 'poppers', 'codeine', 'stray', 'whirlpool', 'freshwater', 'elephant']
+
+Topic 3
+Number of sentences: 249
+Coherence: 0.5724180841094554
+Top Words: ['of', 'the', 'in', 'an', 'and', 'with', 'case', 'syndrome', 'is', 'or']
+
+Topic 4
+Number of sentences: 392
+Coherence: 0.5378033129470039
+Top Words: ['of', 'with', 'and', 'to', 'in', 'presenting', 'as', 'cholecystectomy', 'cysticercosis', 'cholecystitis']
+
+Topic 5
+Number of sentences: 169
+Coherence: 0.526498336744009
+Top Words: ['of', 'in', 'the', 'and', 'health', 'care', 'management', 'to', 'pregnancy', 'mental']
+
+Topic 6
+Number of sentences: 191
+Coherence: 0.5499564757008873
+Top Words: ['of', 'the', 'and', 'with', 'in', 'malignant', 'malignancy', 'mucinous', 'rare', 'an']
+
+Topic 7
+Number of sentences: 149
+Coherence: 0.49205139548414534
+Top Words: ['deficiency', 'syndrome', 'with', 'vitamin', 'of', 'and', 'induced', 'in', 'multidrug', 'to']
+
+Topic 8
+Number of sentences: 199
+Coherence: 0.5627354784029146
+Top Words: ['of', 'rare', 'tumour', 'carcinoma', 'the', 'presentation', 'cell', 'an', 'cyst', 'entity']
+
+Topic 9
+Number of sentences: 170
+Coherence: 0.4295500362417295
+Top Words: ['the', 'of', 'in', 'not', 'an', 'to', 'and', 'it', 'than', 'with']
+
+Topic 10
+Number of sentences: 199
+Coherence: 0.4274122623434321
+Top Words: ['of', 'fasciitis', 'endocarditis', 'in', 'masquerading', 'necrotising', 'an', 'as', 'with', 'case']
+
+Topic 11
+Number of sentences: 248
+Coherence: 0.5531331210015905
+Top Words: ['of', 'in', 'with', 'induced', 'treatment', 'for', 'inhibitor', 'to', 'and', 'choroidal']
+
+Topic 12
+Number of sentences: 219
+Coherence: 0.48301557325328937
+Top Words: ['in', 'with', 'of', 'pancreatitis', 'patient', 'leukaemia', 'acute', 'and', 'erythematosus', 'lupus']
+
+Topic 13
+Number of sentences: 127
+Coherence: 0.5036299548264592
+Top Words: ['cyst', 'of', 'the', 'hydatid', 'in', 'cysts', 'tumour', 'glomus', 'ovarian', 'neuroectodermal']
+
+Topic 14
+Number of sentences: 169
+Coherence: 0.4616886543148738
+Top Words: ['of', 'thrombosis', 'the', 'carcinoma', 'vein', 'with', 'in', 'vasculitis', 'adenocarcinoma', 'and']
+
+Topic 15
+Number of sentences: 74
+Coherence: 0.25181476396229285
+Top Words: ['lymphoma', 'hodgkin', 'cell', 'of', 'diffuse', 'in', 'primary', 'large', 'lymphoblastic', 'with']
+
+Topic 16
+Number of sentences: 254
+Coherence: 0.5337298315141675
+Top Words: ['of', 'in', 'with', 'and', 'the', 'for', 'patient', 'to', 'an', 'obstructive']
+
+Topic 17
+Number of sentences: 22
+Coherence: 0.35514816151512946
+Top Words: ['doctor', 'my', 'constipation', 'the', 'is', 'all', 'foxed', 'ladakhi', 'swimming', 'saturday']
+
+Topic 18
+Number of sentences: 238
+Coherence: 0.5222358502192054
+Top Words: ['in', 'of', 'staphylococcus', 'streptococcus', 'with', 'infection', 'aureus', 'mycobacterium', 'and', 'methicillin']
+
+Topic 19
+Number of sentences: 65
+Coherence: 0.39906523665564186
+Top Words: ['intracranial', 'adrenal', 'hypertension', 'insufficiency', 'of', 'in', 'with', 'hyperplasia', 'idiopathic', 'hypotension']
+
+Topic 20
+Number of sentences: 213
+Coherence: 0.5544790092839906
+Top Words: ['old', 'year', 'in', 'boy', 'with', 'of', 'man', 'and', 'month', 'girl']
+
+Topic 21
+Number of sentences: 96
+Coherence: 0.35139511151469016
+Top Words: ['of', 'volvulus', 'meckel', 'calcification', 'diverticulum', 'schonlein', 'an', 'in', 'the', 'henoch']
+
+Topic 22
+Number of sentences: 218
+Coherence: 0.5042042992259744
+Top Words: ['of', 'the', 'in', 'an', 'and', 'hernia', 'schwannoma', 'with', 'en', 'diagnostic']
+
+Topic 23
+Number of sentences: 125
+Coherence: 0.46905271395692305
+Top Words: ['cardiomyopathy', 'of', 'takotsubo', 'diabetic', 'ketoacidosis', 'in', 'and', 'dilated', 'with', 'misdiagnosed']
+
+Topic 24
+Number of sentences: 135
+Coherence: 0.4751131556003102
+Top Words: ['obstruction', 'gastrointestinal', 'bowel', 'of', 'intestinal', 'small', 'in', 'stromal', 'bleeding', 'cause']
+
+Topic 25
+Number of sentences: 65
+Coherence: 0.528908819955897
+Top Words: ['old', 'year', 'in', 'man', 'woman', 'with', 'of', 'boy', 'an', '66']
+
+Topic 26
+Number of sentences: 95
+Coherence: 0.39911888568088505
+Top Words: ['the', 'of', 'it', 'is', 'not', 'about', 'do', 'in', 'always', 'too']
+
+Topic 27
+Number of sentences: 252
+Coherence: 0.531616266691096
+Top Words: ['in', 'with', 'patient', 'of', 'syndrome', 'hepatitis', 'and', 'an', 'the', 'hiv']
+
+Topic 28
+Number of sentences: 83
+Coherence: 0.2716998694080307
+Top Words: ['ingestion', 'of', 'poisoning', 'intoxication', 'acute', 'overdose', 'mephedrone', 'with', 'trimethoprim', 'sulfamethoxazole']
+
+Topic 29
+Number of sentences: 191
+Coherence: 0.47243058586415676
+Top Words: ['in', 'of', 'an', 'with', 'young', 'patient', 'woman', 'and', 'man', 'unusual']
+
+Topic 30
+Number of sentences: 168
+Coherence: 0.3410926725321817
+Top Words: ['of', 'limbal', 'in', 'for', 'using', 'optical', 'with', 'transplantation', 'tomography', 'coherence']
+
+Topic 31
+Number of sentences: 200
+Coherence: 0.4171802769108785
+Top Words: ['of', 'syndrome', 'in', 'with', 'disease', 'the', 'and', 'patient', 'an', 'rare']
+
+Topic 32
+Number of sentences: 102
+Coherence: 0.45296169153501864
+Top Words: ['of', 'cause', 'an', 'unusual', 'rare', 'pain', 'in', 'common', 'disease', 'case']
+
+Topic 33
+Number of sentences: 46
+Coherence: 0.36181235584037896
+Top Words: ['injury', 'sports', 'traumatic', 'pong', 'ping', 'fracture', 'wii', 'playing', 'penetrating', 'amputation']
+
+Topic 34
+Number of sentences: 162
+Coherence: 0.42795012244072395
+Top Words: ['with', 'thrombocytopenic', 'of', 'and', 'purpura', 'in', 'lymphohistiocytosis', 'haemophagocytic', 'polyangiitis', 'granulomatosis']
+
+Topic 35
+Number of sentences: 80
+Coherence: 0.3529069261168856
+Top Words: ['fracture', 'of', 'dislocation', 'fixation', 'the', 'injury', 'in', 'and', 'with', 'avulsion']
+
+Topic 36
+Number of sentences: 140
+Coherence: 0.36077656766091415
+Top Words: ['aneurysm', 'aortic', 'of', 'artery', 'ruptured', 'aneurysms', 'an', 'rupture', 'with', 'coronary']
+
+Topic 37
+Number of sentences: 31
+Coherence: 0.3330937767249821
+Top Words: ['syndrome', 'sarcina', 'tuberculosis', 'disease', 'peeling', 'di', 'glassidium', 'sala', 'bomb', 'brokenosis']
+
+Topic 38
+Number of sentences: 115
+Coherence: 0.3887990139737182
+Top Words: ['coronary', 'myocardial', 'infarction', 'artery', 'acute', 'in', 'of', 'with', 'dissection', 'intervention']
+
+Topic 39
+Number of sentences: 114
+Coherence: 0.4578604275077399
+Top Words: ['in', 'mutation', 'with', 'of', 'gene', 'h1n1', 'and', 'influenza', 'syndrome', 'the']
+
+Topic 40
+Number of sentences: 105
+Coherence: 0.40955944550494355
+Top Words: ['disease', 'crohn', 'in', 'barr', 'epstein', 'with', 'creutzfeldt', 'jakob', 'of', 'paget']
+
+Topic 41
+Number of sentences: 86
+Coherence: 0.492633689144718
+Top Words: ['encephalopathy', 'reversible', 'encephalitis', 'posterior', 'in', 'with', 'leucoencephalopathy', 'syndrome', 'of', 'panencephalitis']
+
+Topic 42
+Number of sentences: 79
+Coherence: 0.3846388056209033
+Top Words: ['bilateral', 'tumoural', 'hyperphosphatemic', 'pseudoaneurysm', 'unilateral', 'calcinosis', 'coccidioidomycosis', 'artery', 'lipoleiomyoma', 'arthrogryposis']
+
+Topic 43
+Number of sentences: 323
+Coherence: 0.5542030010488408
+Top Words: ['in', 'of', 'with', 'patient', 'and', 'an', 'the', 'syndrome', 'following', 'to']
+
+Topic 44
+Number of sentences: 66
+Coherence: 0.4959773484501958
+Top Words: ['the', 'of', 'just', 'tale', 'an', 'clue', 'heart', 'altered', 'and', 'trust']
+
+Topic 45
+Number of sentences: 42
+Coherence: 0.4082496451672766
+Top Words: ['the', 'of', 'mass', 'an', 'masquerading', 'unusual', 'foreign', 'body', 'as', 'nose']
+
+Topic 46
+Number of sentences: 75
+Coherence: 0.4767020476572307
+Top Words: ['of', 'the', 'pulmonary', 'finger', 'to', 'in', 'embolism', 'incidentally', 'and', 'lesions']
+
+Topic 47
+Number of sentences: 267
+Coherence: 0.398845344316729
+Top Words: ['with', 'of', 'in', 'and', 'patient', 'induced', 'to', 'treatment', 'therapy', 'for']
+
+Topic 48
+Number of sentences: 65
+Coherence: 0.11086715636057379
+Top Words: ['syndrome', 'of', 'in', 'davidoff', 'dyke', 'masson', 'guillain', 'ellis', 'creveld', 'rokitansky']
+
+Topic 49
+Number of sentences: 69
+Coherence: 0.3363449039499976
+Top Words: ['mandibular', 'of', 'the', 'maxillary', 'mandible', 'molar', 'supernumerary', 'palate', 'lateral', 'incisor']
+
+Topic 50
+Number of sentences: 213
+Coherence: 0.5183653082791115
+Top Words: ['of', 'in', 'with', 'the', 'and', 'use', 'patient', 'treatment', 'for', 'induced']
+
+Topic 51
+Number of sentences: 67
+Coherence: 0.42100175546523194
+Top Words: ['of', 'the', 'cruciate', 'ligament', 'rupture', 'tendon', 'medial', 'tibial', 'fracture', 'in']
+
+Topic 52
+Number of sentences: 100
+Coherence: 0.3840159085562275
+Top Words: ['hyponatraemia', 'with', 'of', 'hypoglycaemia', 'hyperparathyroidism', 'hypomagnesaemia', 'hypokalaemic', 'in', 'and', 'hypothyroidism']
+
+Topic 53
+Number of sentences: 87
+Coherence: 0.46048146607887996
+Top Words: ['immunocompetent', 'in', 'an', 'immunocompromised', 'host', 'patient', 'individual', 'of', 'abscess', 'infection']
+
+Topic 54
+Number of sentences: 152
+Coherence: 0.4988752031436804
+Top Words: ['carcinoma', 'cell', 'of', 'adenocarcinoma', 'metastasis', 'with', 'squamous', 'in', 'renal', 'the']
+
+Topic 55
+Number of sentences: 24
+Coherence: 0.3883139559389808
+Top Words: ['situation', 'lies', 'beneath', 'what', 'around', 'bother', 'thickened', 'bulk', 'rats', 'airhead']
+
+Topic 56
+Number of sentences: 89
+Coherence: 0.4831245319834213
+Top Words: ['cancer', 'of', 'metastasis', 'breast', 'carcinoma', 'metastases', 'in', 'with', 'metastatic', 'prostate']
+
+Topic 57
+Number of sentences: 296
+Coherence: 0.49195484280792473
+Top Words: ['of', 'rare', 'cause', 'and', 'an', 'in', 'manifestation', 'complication', 'the', 'as']
+
+Topic 58
+Number of sentences: 131
+Coherence: 0.40891830789375394
+Top Words: ['the', 'of', 'in', 'gallstone', 'compound', 'odontoma', 'an', 'ileus', 'with', 'location']
+
+Topic 59
+Number of sentences: 214
+Coherence: 0.49498596232348946
+Top Words: ['of', 'in', 'the', 'with', 'and', 'for', 'ct', 'patient', 'tomography', 'an']
+
+Topic 60
+Number of sentences: 58
+Coherence: 0.5204163696041713
+Top Words: ['psychosis', 'of', 'disorder', 'in', 'and', 'bipolar', 'with', 'hallucinations', 'visual', 'behavioural']
+
+Topic 61
+Number of sentences: 100
+Coherence: 0.5508205056674013
+Top Words: ['neurofibromatosis', 'autoimmune', 'neuropathy', 'with', 'in', 'type', 'of', 'optic', 'and', 'patient']
+
+Topic 62
+Number of sentences: 125
+Coherence: 0.4240382577080978
+Top Words: ['in', 'of', 'intussusception', 'urinary', 'rupture', 'neonate', 'vaginal', 'the', 'preterm', 'pregnancy']
+
+Topic 63
+Number of sentences: 237
+Coherence: 0.38130336141108706
+Top Words: ['of', 'with', 'in', 'and', 'patient', 'the', 'for', 'syndrome', 'carcinoma', 'treatment']
+
+Topic 64
+Number of sentences: 194
+Coherence: 0.5917720128255456
+Top Words: ['of', 'fistula', 'the', 'with', 'and', 'arteriovenous', 'dural', 'in', 'anterior', 'after']
+
+Topic 65
+Number of sentences: 122
+Coherence: 0.3552591614611381
+Top Words: ['of', 'in', 'and', 'with', 'an', 'cause', 'seizures', 'as', 'the', 'neonatal']
+
+Topic 66
+Number of sentences: 149
+Coherence: 0.41224083693941693
+Top Words: ['of', 'osteogenesis', 'in', 'and', 'imperfecta', 'with', 'spontaneous', 'fistula', 'spondylitis', 'ankylosing']
+
+Topic 67
+Number of sentences: 104
+Coherence: 0.5116967725141183
+Top Words: ['oesophageal', 'of', 'rheumatoid', 'in', 'haemorrhage', 'with', 'arthritis', 'and', 'to', 'malformation']
+
+Topic 68
+Number of sentences: 68
+Coherence: 0.35309985494460505
+Top Words: ['ectopic', 'laparoscopic', 'pregnancy', 'following', 'tubal', 'after', 'cerclage', 'transabdominal', 'pneumonectomy', 'hysterectomy']
+
+Topic 69
+Number of sentences: 42
+Coherence: 0.3643682345604789
+Top Words: ['pneumoperitoneum', 'pneumomediastinum', 'pneumothorax', 'pneumocystis', 'of', 'pneumocephalus', 'tension', 'jiroveci', 'in', 'an']
+
+Topic 70
+Number of sentences: 114
+Coherence: 0.5397864418355518
+Top Words: ['of', 'in', 'and', 'the', 'for', 'with', 'technique', 'syndromic', 'management', 'using']
+
+Topic 71
+Number of sentences: 131
+Coherence: 0.4676151721291951
+Top Words: ['literature', 'review', 'of', 'report', 'and', 'case', 'the', 'in', 'with', 'carcinoma']
+
+Topic 72
+Number of sentences: 23
+Coherence: 0.26908491686714875
+Top Words: ['artery', 'coronary', 'left', 'circumflex', 'anomalous', 'descending', 'right', 'of', 'the', 'origin']
+
+Topic 73
+Number of sentences: 32
+Coherence: 0.2789144474921118
+Top Words: ['intravenous', 'in', 'user', 'immunoglobulin', 'drug', 'with', 'administration', 'of', 'an', 'to']
+
+Topic 74
+Number of sentences: 88
+Coherence: 0.4383094642112633
+Top Words: ['haemorrhage', 'subarachnoid', 'in', 'of', 'haemorrhages', 'haemorrhagic', 'with', 'and', 'spontaneous', 'subdural']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: bert-base-cased, Distance Threshold: 15, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 75, Vocabulary length: 12132, Total Coherence: 0.43968007181874036}
+
+Topic 0
+Number of sentences: 295
+Coherence: 0.40319546024281677
+Top Words: ['of', 'the', 'with', 'and', 'in', 'artery', 'to', 'left', 'palsy', 'vertebral']
+
+Topic 1
+Number of sentences: 292
+Coherence: 0.4396074046987112
+Top Words: ['of', 'dissection', 'the', 'malformation', 'in', 'artery', 'appendicitis', 'unusual', 'abscess', 'venous']
+
+Topic 2
+Number of sentences: 50
+Coherence: 0.44207900393894695
+Top Words: ['sign', 'double', 'appendix', 'concha', 'poppers', 'codeine', 'stray', 'whirlpool', 'freshwater', 'elephant']
+
+Topic 3
+Number of sentences: 249
+Coherence: 0.5724180841094554
+Top Words: ['of', 'the', 'in', 'an', 'and', 'with', 'case', 'syndrome', 'is', 'or']
+
+Topic 4
+Number of sentences: 392
+Coherence: 0.5378033129470039
+Top Words: ['of', 'with', 'and', 'to', 'in', 'presenting', 'as', 'cholecystectomy', 'cysticercosis', 'cholecystitis']
+
+Topic 5
+Number of sentences: 169
+Coherence: 0.526498336744009
+Top Words: ['of', 'in', 'the', 'and', 'health', 'care', 'management', 'to', 'pregnancy', 'mental']
+
+Topic 6
+Number of sentences: 191
+Coherence: 0.5499564757008873
+Top Words: ['of', 'the', 'and', 'with', 'in', 'malignant', 'malignancy', 'mucinous', 'rare', 'an']
+
+Topic 7
+Number of sentences: 149
+Coherence: 0.49205139548414534
+Top Words: ['deficiency', 'syndrome', 'with', 'vitamin', 'of', 'and', 'induced', 'in', 'multidrug', 'to']
+
+Topic 8
+Number of sentences: 199
+Coherence: 0.5627354784029146
+Top Words: ['of', 'rare', 'tumour', 'carcinoma', 'the', 'presentation', 'cell', 'an', 'cyst', 'entity']
+
+Topic 9
+Number of sentences: 170
+Coherence: 0.4295500362417295
+Top Words: ['the', 'of', 'in', 'not', 'an', 'to', 'and', 'it', 'than', 'with']
+
+Topic 10
+Number of sentences: 199
+Coherence: 0.4274122623434321
+Top Words: ['of', 'fasciitis', 'endocarditis', 'in', 'masquerading', 'necrotising', 'an', 'as', 'with', 'case']
+
+Topic 11
+Number of sentences: 248
+Coherence: 0.5531331210015905
+Top Words: ['of', 'in', 'with', 'induced', 'treatment', 'for', 'inhibitor', 'to', 'and', 'choroidal']
+
+Topic 12
+Number of sentences: 219
+Coherence: 0.48301557325328937
+Top Words: ['in', 'with', 'of', 'pancreatitis', 'patient', 'leukaemia', 'acute', 'and', 'erythematosus', 'lupus']
+
+Topic 13
+Number of sentences: 127
+Coherence: 0.5036299548264592
+Top Words: ['cyst', 'of', 'the', 'hydatid', 'in', 'cysts', 'tumour', 'glomus', 'ovarian', 'neuroectodermal']
+
+Topic 14
+Number of sentences: 169
+Coherence: 0.4616886543148738
+Top Words: ['of', 'thrombosis', 'the', 'carcinoma', 'vein', 'with', 'in', 'vasculitis', 'adenocarcinoma', 'and']
+
+Topic 15
+Number of sentences: 74
+Coherence: 0.25181476396229285
+Top Words: ['lymphoma', 'hodgkin', 'cell', 'of', 'diffuse', 'in', 'primary', 'large', 'lymphoblastic', 'with']
+
+Topic 16
+Number of sentences: 254
+Coherence: 0.5337298315141675
+Top Words: ['of', 'in', 'with', 'and', 'the', 'for', 'patient', 'to', 'an', 'obstructive']
+
+Topic 17
+Number of sentences: 22
+Coherence: 0.35514816151512946
+Top Words: ['doctor', 'my', 'constipation', 'the', 'is', 'all', 'foxed', 'ladakhi', 'swimming', 'saturday']
+
+Topic 18
+Number of sentences: 238
+Coherence: 0.5222358502192054
+Top Words: ['in', 'of', 'staphylococcus', 'streptococcus', 'with', 'infection', 'aureus', 'mycobacterium', 'and', 'methicillin']
+
+Topic 19
+Number of sentences: 65
+Coherence: 0.39906523665564186
+Top Words: ['intracranial', 'adrenal', 'hypertension', 'insufficiency', 'of', 'in', 'with', 'hyperplasia', 'idiopathic', 'hypotension']
+
+Topic 20
+Number of sentences: 213
+Coherence: 0.5544790092839906
+Top Words: ['old', 'year', 'in', 'boy', 'with', 'of', 'man', 'and', 'month', 'girl']
+
+Topic 21
+Number of sentences: 96
+Coherence: 0.35139511151469016
+Top Words: ['of', 'volvulus', 'meckel', 'calcification', 'diverticulum', 'schonlein', 'an', 'in', 'the', 'henoch']
+
+Topic 22
+Number of sentences: 218
+Coherence: 0.5042042992259744
+Top Words: ['of', 'the', 'in', 'an', 'and', 'hernia', 'schwannoma', 'with', 'en', 'diagnostic']
+
+Topic 23
+Number of sentences: 125
+Coherence: 0.46905271395692305
+Top Words: ['cardiomyopathy', 'of', 'takotsubo', 'diabetic', 'ketoacidosis', 'in', 'and', 'dilated', 'with', 'misdiagnosed']
+
+Topic 24
+Number of sentences: 135
+Coherence: 0.4751131556003102
+Top Words: ['obstruction', 'gastrointestinal', 'bowel', 'of', 'intestinal', 'small', 'in', 'stromal', 'bleeding', 'cause']
+
+Topic 25
+Number of sentences: 65
+Coherence: 0.528908819955897
+Top Words: ['old', 'year', 'in', 'man', 'woman', 'with', 'of', 'boy', 'an', '66']
+
+Topic 26
+Number of sentences: 95
+Coherence: 0.39911888568088505
+Top Words: ['the', 'of', 'it', 'is', 'not', 'about', 'do', 'in', 'always', 'too']
+
+Topic 27
+Number of sentences: 252
+Coherence: 0.531616266691096
+Top Words: ['in', 'with', 'patient', 'of', 'syndrome', 'hepatitis', 'and', 'an', 'the', 'hiv']
+
+Topic 28
+Number of sentences: 83
+Coherence: 0.2716998694080307
+Top Words: ['ingestion', 'of', 'poisoning', 'intoxication', 'acute', 'overdose', 'mephedrone', 'with', 'trimethoprim', 'sulfamethoxazole']
+
+Topic 29
+Number of sentences: 191
+Coherence: 0.47243058586415676
+Top Words: ['in', 'of', 'an', 'with', 'young', 'patient', 'woman', 'and', 'man', 'unusual']
+
+Topic 30
+Number of sentences: 168
+Coherence: 0.3410926725321817
+Top Words: ['of', 'limbal', 'in', 'for', 'using', 'optical', 'with', 'transplantation', 'tomography', 'coherence']
+
+Topic 31
+Number of sentences: 200
+Coherence: 0.4171802769108785
+Top Words: ['of', 'syndrome', 'in', 'with', 'disease', 'the', 'and', 'patient', 'an', 'rare']
+
+Topic 32
+Number of sentences: 102
+Coherence: 0.45296169153501864
+Top Words: ['of', 'cause', 'an', 'unusual', 'rare', 'pain', 'in', 'common', 'disease', 'case']
+
+Topic 33
+Number of sentences: 46
+Coherence: 0.36181235584037896
+Top Words: ['injury', 'sports', 'traumatic', 'pong', 'ping', 'fracture', 'wii', 'playing', 'penetrating', 'amputation']
+
+Topic 34
+Number of sentences: 162
+Coherence: 0.42795012244072395
+Top Words: ['with', 'thrombocytopenic', 'of', 'and', 'purpura', 'in', 'lymphohistiocytosis', 'haemophagocytic', 'polyangiitis', 'granulomatosis']
+
+Topic 35
+Number of sentences: 80
+Coherence: 0.3529069261168856
+Top Words: ['fracture', 'of', 'dislocation', 'fixation', 'the', 'injury', 'in', 'and', 'with', 'avulsion']
+
+Topic 36
+Number of sentences: 140
+Coherence: 0.36077656766091415
+Top Words: ['aneurysm', 'aortic', 'of', 'artery', 'ruptured', 'aneurysms', 'an', 'rupture', 'with', 'coronary']
+
+Topic 37
+Number of sentences: 31
+Coherence: 0.3330937767249821
+Top Words: ['syndrome', 'sarcina', 'tuberculosis', 'disease', 'peeling', 'di', 'glassidium', 'sala', 'bomb', 'brokenosis']
+
+Topic 38
+Number of sentences: 115
+Coherence: 0.3887990139737182
+Top Words: ['coronary', 'myocardial', 'infarction', 'artery', 'acute', 'in', 'of', 'with', 'dissection', 'intervention']
+
+Topic 39
+Number of sentences: 114
+Coherence: 0.4578604275077399
+Top Words: ['in', 'mutation', 'with', 'of', 'gene', 'h1n1', 'and', 'influenza', 'syndrome', 'the']
+
+Topic 40
+Number of sentences: 105
+Coherence: 0.40955944550494355
+Top Words: ['disease', 'crohn', 'in', 'barr', 'epstein', 'with', 'creutzfeldt', 'jakob', 'of', 'paget']
+
+Topic 41
+Number of sentences: 86
+Coherence: 0.492633689144718
+Top Words: ['encephalopathy', 'reversible', 'encephalitis', 'posterior', 'in', 'with', 'leucoencephalopathy', 'syndrome', 'of', 'panencephalitis']
+
+Topic 42
+Number of sentences: 79
+Coherence: 0.3846388056209033
+Top Words: ['bilateral', 'tumoural', 'hyperphosphatemic', 'pseudoaneurysm', 'unilateral', 'calcinosis', 'coccidioidomycosis', 'artery', 'lipoleiomyoma', 'arthrogryposis']
+
+Topic 43
+Number of sentences: 323
+Coherence: 0.5542030010488408
+Top Words: ['in', 'of', 'with', 'patient', 'and', 'an', 'the', 'syndrome', 'following', 'to']
+
+Topic 44
+Number of sentences: 66
+Coherence: 0.4959773484501958
+Top Words: ['the', 'of', 'just', 'tale', 'an', 'clue', 'heart', 'altered', 'and', 'trust']
+
+Topic 45
+Number of sentences: 42
+Coherence: 0.4082496451672766
+Top Words: ['the', 'of', 'mass', 'an', 'masquerading', 'unusual', 'foreign', 'body', 'as', 'nose']
+
+Topic 46
+Number of sentences: 75
+Coherence: 0.4767020476572307
+Top Words: ['of', 'the', 'pulmonary', 'finger', 'to', 'in', 'embolism', 'incidentally', 'and', 'lesions']
+
+Topic 47
+Number of sentences: 267
+Coherence: 0.398845344316729
+Top Words: ['with', 'of', 'in', 'and', 'patient', 'induced', 'to', 'treatment', 'therapy', 'for']
+
+Topic 48
+Number of sentences: 65
+Coherence: 0.11086715636057379
+Top Words: ['syndrome', 'of', 'in', 'davidoff', 'dyke', 'masson', 'guillain', 'ellis', 'creveld', 'rokitansky']
+
+Topic 49
+Number of sentences: 69
+Coherence: 0.3363449039499976
+Top Words: ['mandibular', 'of', 'the', 'maxillary', 'mandible', 'molar', 'supernumerary', 'palate', 'lateral', 'incisor']
+
+Topic 50
+Number of sentences: 213
+Coherence: 0.5183653082791115
+Top Words: ['of', 'in', 'with', 'the', 'and', 'use', 'patient', 'treatment', 'for', 'induced']
+
+Topic 51
+Number of sentences: 67
+Coherence: 0.42100175546523194
+Top Words: ['of', 'the', 'cruciate', 'ligament', 'rupture', 'tendon', 'medial', 'tibial', 'fracture', 'in']
+
+Topic 52
+Number of sentences: 100
+Coherence: 0.3840159085562275
+Top Words: ['hyponatraemia', 'with', 'of', 'hypoglycaemia', 'hyperparathyroidism', 'hypomagnesaemia', 'hypokalaemic', 'in', 'and', 'hypothyroidism']
+
+Topic 53
+Number of sentences: 87
+Coherence: 0.46048146607887996
+Top Words: ['immunocompetent', 'in', 'an', 'immunocompromised', 'host', 'patient', 'individual', 'of', 'abscess', 'infection']
+
+Topic 54
+Number of sentences: 152
+Coherence: 0.4988752031436804
+Top Words: ['carcinoma', 'cell', 'of', 'adenocarcinoma', 'metastasis', 'with', 'squamous', 'in', 'renal', 'the']
+
+Topic 55
+Number of sentences: 24
+Coherence: 0.3883139559389808
+Top Words: ['situation', 'lies', 'beneath', 'what', 'around', 'bother', 'thickened', 'bulk', 'rats', 'airhead']
+
+Topic 56
+Number of sentences: 89
+Coherence: 0.4831245319834213
+Top Words: ['cancer', 'of', 'metastasis', 'breast', 'carcinoma', 'metastases', 'in', 'with', 'metastatic', 'prostate']
+
+Topic 57
+Number of sentences: 296
+Coherence: 0.49195484280792473
+Top Words: ['of', 'rare', 'cause', 'and', 'an', 'in', 'manifestation', 'complication', 'the', 'as']
+
+Topic 58
+Number of sentences: 131
+Coherence: 0.40891830789375394
+Top Words: ['the', 'of', 'in', 'gallstone', 'compound', 'odontoma', 'an', 'ileus', 'with', 'location']
+
+Topic 59
+Number of sentences: 214
+Coherence: 0.49498596232348946
+Top Words: ['of', 'in', 'the', 'with', 'and', 'for', 'ct', 'patient', 'tomography', 'an']
+
+Topic 60
+Number of sentences: 58
+Coherence: 0.5204163696041713
+Top Words: ['psychosis', 'of', 'disorder', 'in', 'and', 'bipolar', 'with', 'hallucinations', 'visual', 'behavioural']
+
+Topic 61
+Number of sentences: 100
+Coherence: 0.5508205056674013
+Top Words: ['neurofibromatosis', 'autoimmune', 'neuropathy', 'with', 'in', 'type', 'of', 'optic', 'and', 'patient']
+
+Topic 62
+Number of sentences: 125
+Coherence: 0.4240382577080978
+Top Words: ['in', 'of', 'intussusception', 'urinary', 'rupture', 'neonate', 'vaginal', 'the', 'preterm', 'pregnancy']
+
+Topic 63
+Number of sentences: 237
+Coherence: 0.38130336141108706
+Top Words: ['of', 'with', 'in', 'and', 'patient', 'the', 'for', 'syndrome', 'carcinoma', 'treatment']
+
+Topic 64
+Number of sentences: 194
+Coherence: 0.5917720128255456
+Top Words: ['of', 'fistula', 'the', 'with', 'and', 'arteriovenous', 'dural', 'in', 'anterior', 'after']
+
+Topic 65
+Number of sentences: 122
+Coherence: 0.3552591614611381
+Top Words: ['of', 'in', 'and', 'with', 'an', 'cause', 'seizures', 'as', 'the', 'neonatal']
+
+Topic 66
+Number of sentences: 149
+Coherence: 0.41224083693941693
+Top Words: ['of', 'osteogenesis', 'in', 'and', 'imperfecta', 'with', 'spontaneous', 'fistula', 'spondylitis', 'ankylosing']
+
+Topic 67
+Number of sentences: 104
+Coherence: 0.5116967725141183
+Top Words: ['oesophageal', 'of', 'rheumatoid', 'in', 'haemorrhage', 'with', 'arthritis', 'and', 'to', 'malformation']
+
+Topic 68
+Number of sentences: 68
+Coherence: 0.35309985494460505
+Top Words: ['ectopic', 'laparoscopic', 'pregnancy', 'following', 'tubal', 'after', 'cerclage', 'transabdominal', 'pneumonectomy', 'hysterectomy']
+
+Topic 69
+Number of sentences: 42
+Coherence: 0.3643682345604789
+Top Words: ['pneumoperitoneum', 'pneumomediastinum', 'pneumothorax', 'pneumocystis', 'of', 'pneumocephalus', 'tension', 'jiroveci', 'in', 'an']
+
+Topic 70
+Number of sentences: 114
+Coherence: 0.5397864418355518
+Top Words: ['of', 'in', 'and', 'the', 'for', 'with', 'technique', 'syndromic', 'management', 'using']
+
+Topic 71
+Number of sentences: 131
+Coherence: 0.4676151721291951
+Top Words: ['literature', 'review', 'of', 'report', 'and', 'case', 'the', 'in', 'with', 'carcinoma']
+
+Topic 72
+Number of sentences: 23
+Coherence: 0.26908491686714875
+Top Words: ['artery', 'coronary', 'left', 'circumflex', 'anomalous', 'descending', 'right', 'of', 'the', 'origin']
+
+Topic 73
+Number of sentences: 32
+Coherence: 0.2789144474921118
+Top Words: ['intravenous', 'in', 'user', 'immunoglobulin', 'drug', 'with', 'administration', 'of', 'an', 'to']
+
+Topic 74
+Number of sentences: 88
+Coherence: 0.4383094642112633
+Top Words: ['haemorrhage', 'subarachnoid', 'in', 'of', 'haemorrhages', 'haemorrhagic', 'with', 'and', 'spontaneous', 'subdural']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: bert-base-cased, Distance Threshold: 80, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 3, Vocabulary length: 10260, Total Coherence: 0.5613714043284914}
+
+Topic 0
+Number of sentences: 2069
+Coherence: 0.5007588481965962
+Top Words: ['mental', 'guillain', 'your', 'still', 'illness', 'kikuchi', 'barr', 'this', 'about', 'forget']
+
+Topic 1
+Number of sentences: 4686
+Coherence: 0.5794894115108373
+Top Words: ['immunocompetent', 'cardiomyopathy', 'cystic', 'diffuse', 'mutation', 'intravenous', 'month', 'autoimmune', 'chemotherapy', 'staphylococcus']
+
+Topic 2
+Number of sentences: 3784
+Coherence: 0.6038659532780408
+Top Words: ['aneurysm', 'dissection', 'arteriovenous', 'gastrointestinal', 'ruptured', 'occlusion', 'inferior', 'uterine', 'vertebral', 'maxillary']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: bert-base-cased, Distance Threshold: 80, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 3, Vocabulary length: 10260, Total Coherence: 0.5613714043284914}
+
+Topic 0
+Number of sentences: 2069
+Coherence: 0.5007588481965962
+Top Words: ['mental', 'guillain', 'your', 'still', 'illness', 'kikuchi', 'barr', 'this', 'about', 'forget']
+
+Topic 1
+Number of sentences: 4686
+Coherence: 0.5794894115108373
+Top Words: ['immunocompetent', 'cardiomyopathy', 'cystic', 'diffuse', 'mutation', 'intravenous', 'month', 'autoimmune', 'chemotherapy', 'staphylococcus']
+
+Topic 2
+Number of sentences: 3784
+Coherence: 0.6038659532780408
+Top Words: ['aneurysm', 'dissection', 'arteriovenous', 'gastrointestinal', 'ruptured', 'occlusion', 'inferior', 'uterine', 'vertebral', 'maxillary']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: bert-base-cased, Distance Threshold: 60, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 5, Vocabulary length: 11892, Total Coherence: 0.5529642699067882}
+
+Topic 0
+Number of sentences: 4408
+Coherence: 0.5779378605783947
+Top Words: ['treatment', 'carcinoma', 'associated', 'report', 'cancer', 'pulmonary', 'literature', 'lymphoma', 'severe', 'chronic']
+
+Topic 1
+Number of sentences: 469
+Coherence: 0.4526103625025793
+Top Words: ['it', 'always', 'what', 'can', 'two', 'than', 'do', 'more', 'how', 'when']
+
+Topic 2
+Number of sentences: 3784
+Coherence: 0.6058260891563971
+Top Words: ['aneurysm', 'bilateral', 'spontaneous', 'pulmonary', 'aortic', 'obstruction', 'haemorrhage', 'dissection', 'associated', 'thrombosis']
+
+Topic 3
+Number of sentences: 1600
+Coherence: 0.5480358433884808
+Top Words: ['treatment', 'pregnancy', 'two', 'pulmonary', 'report', 'associated', 'cancer', 'severe', 'findings', 'recurrent']
+
+Topic 4
+Number of sentences: 278
+Coherence: 0.5804111939080887
+Top Words: ['year', 'boy', 'girl', 'month', 'bilateral', '15', 'severe', '12', '17', '54']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: bert-base-cased, Distance Threshold: 55, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 6, Vocabulary length: 11935, Total Coherence: 0.5504164273784645}
+
+Topic 0
+Number of sentences: 3784
+Coherence: 0.6052472247588147
+Top Words: ['aneurysm', 'bilateral', 'spontaneous', 'pulmonary', 'fistula', 'aortic', 'obstruction', 'haemorrhage', 'carotid', 'associated']
+
+Topic 1
+Number of sentences: 469
+Coherence: 0.4526103625025792
+Top Words: ['it', 'always', 'can', 'what', 'than', 'two', 'more', 'do', 'when', 'how']
+
+Topic 2
+Number of sentences: 3565
+Coherence: 0.5513000718774503
+Top Words: ['carcinoma', 'associated', 'report', 'literature', 'lymphoma', 'cancer', 'pulmonary', 'treatment', 'renal', 'severe']
+
+Topic 3
+Number of sentences: 1600
+Coherence: 0.5502603842189717
+Top Words: ['treatment', 'pregnancy', 'two', 'pulmonary', 'report', 'associated', 'severe', 'cancer', 'recurrent', 'findings']
+
+Topic 4
+Number of sentences: 278
+Coherence: 0.5804111939080887
+Top Words: ['year', 'boy', 'month', 'girl', 'bilateral', '15', '17', 'severe', '12', '54']
+
+Topic 5
+Number of sentences: 843
+Coherence: 0.562669327004883
+Top Words: ['treatment', 'associated', 'treated', 'intravenous', 'dose', 'severe', 'toxicity', 'cancer', 'patients', 'inhibitor']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: bert-base-cased, Distance Threshold: 300, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 1, Vocabulary length: 10789, Total Coherence: 0.609458959144902}
+
+Topic 0
+Number of sentences: 10539
+Coherence: 0.609458959144902
+Top Words: ['angiosarcoma', 'apoplexy', 'xanthogranulomatous', 'aspergilloma', 'hyperthyroidism', 'extrapulmonary', 'capillary', 'tubular', 'brucellosis', 'sjögren']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: bert-base-cased, Distance Threshold: 300, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 1, Vocabulary length: 10789, Total Coherence: 0.609458959144902}
+
+Topic 0
+Number of sentences: 10539
+Coherence: 0.609458959144902
+Top Words: ['angiosarcoma', 'apoplexy', 'xanthogranulomatous', 'aspergilloma', 'hyperthyroidism', 'extrapulmonary', 'capillary', 'tubular', 'brucellosis', 'sjögren']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: bert-base-cased, Distance Threshold: 300, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 1, Vocabulary length: 10789, Total Coherence: 0.609458959144902}
+
+Topic 0
+Number of sentences: 10539
+Coherence: 0.609458959144902
+Top Words: ['angiosarcoma', 'apoplexy', 'xanthogranulomatous', 'aspergilloma', 'hyperthyroidism', 'extrapulmonary', 'capillary', 'tubular', 'brucellosis', 'sjögren']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: bert-base-cased, Distance Threshold: 300, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 1, Vocabulary length: 10789, Total Coherence: 0.609458959144902}
+
+Topic 0
+Number of sentences: 10539
+Coherence: 0.609458959144902
+Top Words: ['angiosarcoma', 'apoplexy', 'xanthogranulomatous', 'aspergilloma', 'hyperthyroidism', 'extrapulmonary', 'capillary', 'tubular', 'brucellosis', 'sjögren']
+
+----------------------------------------------------------------------------

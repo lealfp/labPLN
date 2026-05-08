@@ -1,0 +1,316 @@
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5591286553506342
+Topic 0
+Top words:  ['runner', 'chapter', 'place', 'brain', 'future', 'agent', 'hound', 'killing', 'bird', 'saving']
+Coherence: 0.6019150358380495
+
+Topic 1
+Top words:  ['shell', 'furious', 'sword', 'gods', 'sing', 'race', 'amazing', 'astérix', 'asterix', 'truth']
+Coherence: 0.5012799064622357
+
+Topic 2
+Top words:  ['scooby', 'doo', 'guardians', 'kingdom', 'why', '12', 'turtles', 'teenage', 'chronicles', 'lucky']
+Coherence: 0.4937773295353529
+
+Topic 3
+Top words:  ['jim', 'chappelle', 'justice', 'plan', 'job', 'daddy', 'as', 'sisters', 'light', 'giant']
+Coherence: 0.6037703063896904
+
+Topic 4
+Top words:  ['louis', 'pooh', 'winnie', 'was', 'london', 'wanted', 'impossible', 'free', 'hunger', 'strange']
+Coherence: 0.5482275303957342
+
+Topic 5
+Top words:  ['magic', 'avengers', 'kung', 'fantastic', 'army', 'ride', 'chi', '3d', 'make', 'generation']
+Coherence: 0.605801823482742
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 1	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5513549664403465
+Topic 0
+Top words:  ['jim', 'watson', 'runner', 'chappelle', 'shell', 'magic', 'avengers', 'kung', 'doo', 'scooby']
+Coherence: 0.5513549664403465
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 1	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5513549664403465
+Topic 0
+Top words:  ['jim', 'watson', 'runner', 'chappelle', 'shell', 'magic', 'avengers', 'kung', 'scooby', 'doo']
+Coherence: 0.5513549664403465
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 1	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5513549664403465
+Topic 0
+Top words:  ['jim', 'watson', 'runner', 'chappelle', 'shell', 'magic', 'avengers', 'kung', 'scooby', 'doo']
+Coherence: 0.5513549664403465
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 1	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5513549664403465
+Topic 0
+Top words:  ['jim', 'watson', 'runner', 'chappelle', 'shell', 'magic', 'avengers', 'kung', 'doo', 'scooby']
+Coherence: 0.5513549664403465
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 1	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5513549664403465
+Topic 0
+Top words:  ['jim', 'watson', 'runner', 'chappelle', 'shell', 'magic', 'avengers', 'kung', 'doo', 'scooby']
+Coherence: 0.5513549664403465
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 1	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5513549664403465
+Topic 0
+Top words:  ['jim', 'watson', 'runner', 'chappelle', 'shell', 'magic', 'avengers', 'kung', 'scooby', 'doo']
+Coherence: 0.5513549664403465
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 2	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5501020887786074
+Topic 0
+Top words:  ['shell', 'magic', 'doo', 'scooby', 'avengers', 'kung', 'chapter', 'film', '12', 'guardians']
+Coherence: 0.5496737730185897
+
+Topic 1
+Top words:  ['runner', 'fantastic', 'justice', 'why', 'louis', 'pooh', 'winnie', 'plan', 'chi', 'place']
+Coherence: 0.5505304045386252
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 2	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5603136150131851
+Topic 0
+Top words:  ['runner', 'shell', 'avengers', 'why', 'louis', 'chi', 'chapter', 'plan', '3d', 'brain']
+Coherence: 0.5709534570077807
+
+Topic 1
+Top words:  ['kung', 'doo', 'scooby', 'fantastic', 'guardians', 'film', 'magic', 'justice', 'army', 'pooh']
+Coherence: 0.5496737730185897
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 2	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5513080022008523
+Topic 0
+Top words:  ['runner', 'shell', 'avengers', 'kung', 'doo', 'scooby', 'ride', 'chappelle', 'brain', 'kingdom']
+Coherence: 0.5513549664403464
+
+Topic 1
+Top words:  ['magic', 'fantastic', 'justice', 'chapter', 'pooh', 'why', 'winnie', 'jim', 'oh', 'chi']
+Coherence: 0.5512610379613582
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 2	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5333431516014961
+Topic 0
+Top words:  ['shell', 'avengers', 'fantastic', 'why', 'justice', '12', 'louis', 'oh', 'chi', 'place']
+Coherence: 0.5720253008960636
+
+Topic 1
+Top words:  ['runner', 'magic', 'scooby', 'doo', 'ride', 'winnie', 'pooh', 'kung', 'guardians', 'brain']
+Coherence: 0.49466100230692867
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 2	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5504670416203148
+Topic 0
+Top words:  ['runner', 'fantastic', 'justice', 'winnie', 'ride', 'pooh', 'place', 'brain', 'wanted', 'london']
+Coherence: 0.5513549664403465
+
+Topic 1
+Top words:  ['kung', 'avengers', 'jim', 'shell', 'doo', 'scooby', 'louis', 'why', 'chapter', 'guardians']
+Coherence: 0.5495791168002832
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 2	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.54968813939431
+Topic 0
+Top words:  ['shell', 'kung', 'doo', 'scooby', 'fantastic', 'guardians', 'chappelle', 'chapter', 'kingdom', 'justice']
+Coherence: 0.5495791168002833
+
+Topic 1
+Top words:  ['runner', 'magic', 'avengers', 'louis', 'why', 'army', 'winnie', 'pooh', 'watson', 'chi']
+Coherence: 0.5497971619883367
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 2	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5164844983859227
+Topic 0
+Top words:  ['avengers', 'kung', 'doo', 'scooby', 'guardians', 'kingdom', 'chi', 'furious', '3d', 'teenage']
+Coherence: 0.5150596232473388
+
+Topic 1
+Top words:  ['runner', 'shell', 'louis', 'film', 'magic', 'justice', 'winnie', 'pooh', 'oh', 'plan']
+Coherence: 0.5179093735245067
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 2	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5505719923370022
+Topic 0
+Top words:  ['shell', 'avengers', 'kung', 'doo', 'scooby', 'chappelle', 'kingdom', 'why', 'justice', '12']
+Coherence: 0.5490612936884113
+
+Topic 1
+Top words:  ['runner', 'jim', 'fantastic', 'film', 'chapter', 'winnie', 'pooh', 'ride', 'brain', 'wanted']
+Coherence: 0.552082690985593
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 2	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5505643157139175
+Topic 0
+Top words:  ['runner', 'shell', 'kung', 'avengers', 'scooby', 'doo', 'watson', 'louis', 'fantastic', 'chapter']
+Coherence: 0.552901101032101
+
+Topic 1
+Top words:  ['chappelle', 'why', 'pooh', 'winnie', 'army', 'ride', 'chi', 'place', 'brain', 'justice']
+Coherence: 0.5482275303957341
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5593366253971132
+Topic 0
+Top words:  ['kung', '3d', 'astérix', 'asterix', 'gods', 'sing', 'as', 'everything', 'history', 'gone']
+Coherence: 0.5021107918900624
+
+Topic 1
+Top words:  ['runner', 'chappelle', '12', 'inside', 'making', 'dad', 'very', 'deadly', 'drive', 'paper']
+Coherence: 0.6023757414929382
+
+Topic 2
+Top words:  ['avengers', 'fantastic', 'guardians', 'plan', 'wanted', 'make', 'silence', 'hound', 'killing', 'twilight']
+Coherence: 0.5989765451461351
+
+Topic 3
+Top words:  ['jim', 'kingdom', 'winnie', 'pooh', 'ride', 'chi', 'brain', 'turtles', 'teenage', 'chronicles']
+Coherence: 0.4983479566123726
+
+Topic 4
+Top words:  ['doo', 'scooby', 'louis', 'why', 'chapter', 'place', 'was', 'impossible', 'lucky', 'short']
+Coherence: 0.5497025562389608
+
+Topic 5
+Top words:  ['shell', 'magic', 'furious', 'justice', 'daddy', 'sword', 'london', 'free', 'race', 'shadows']
+Coherence: 0.6045061610022101
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5698496405715602
+Topic 0
+Top words:  ['jim', 'avengers', 'kingdom', 'wanted', 'chronicles', 'everything', 'agent', 'years', 'lee', 'sisters']
+Coherence: 0.5687556200263489
+
+Topic 1
+Top words:  ['kung', 'guardians', 'army', 'ride', 'job', 'gods', 'race', 'magic', 'amazing', 'woods']
+Coherence: 0.6035746685019168
+
+Topic 2
+Top words:  ['runner', 'chappelle', 'shell', '12', 'plan', 'place', 'brain', 'sing', 'strange', 'see']
+Coherence: 0.6015200005748699
+
+Topic 3
+Top words:  ['why', 'pooh', 'winnie', '3d', 'london', 'make', 'shadows', 'inside', 'twilight', 'bird']
+Coherence: 0.5484179958399554
+
+Topic 4
+Top words:  ['fantastic', 'chapter', 'justice', 'sword', 'short', 'impossible', 'hound', 'generation', 'history', 'stars']
+Coherence: 0.6002225564316672
+
+Topic 5
+Top words:  ['scooby', 'doo', 'louis', 'furious', 'chi', 'teenage', 'daddy', 'free', 'turtles', 'lucky']
+Coherence: 0.4966070020546033
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5614127677124058
+Topic 0
+Top words:  ['runner', 'shell', 'chi', 'place', 'sing', 'everything', 'mars', 'make', 'killing', 'twilight']
+Coherence: 0.6021787937466729
+
+Topic 1
+Top words:  ['scooby', 'doo', 'guardians', 'army', 'oh', '3d', 'teenage', 'turtles', 'sword', 'future']
+Coherence: 0.442386829720093
+
+Topic 2
+Top words:  ['avengers', 'furious', 'justice', 'chapter', '12', 'ride', 'brain', 'job', 'london', 'impossible']
+Coherence: 0.60450616100221
+
+Topic 3
+Top words:  ['jim', 'louis', 'why', 'chronicles', 'years', 'light', 'still', 'special', 'bird', 'has']
+Coherence: 0.566668149823896
+
+Topic 4
+Top words:  ['fantastic', 'kingdom', 'pooh', 'winnie', 'wanted', 'hunger', 'inside', 'woods', 'sisters', 'generation']
+Coherence: 0.5489663655918717
+
+Topic 5
+Top words:  ['chappelle', 'magic', 'kung', 'was', 'gods', 'daddy', 'machine', 'race', 'plan', 'fallen']
+Coherence: 0.6037703063896903
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5684707314388627
+Topic 0
+Top words:  ['shell', 'louis', 'kingdom', 'why', 'daddy', 'chronicles', 'future', 'strange', 'inside', 'amazing']
+Coherence: 0.6051550669203163
+
+Topic 1
+Top words:  ['jim', 'fantastic', 'army', '12', '3d', 'london', 'wanted', 'make', 'impossible', 'lucky']
+Coherence: 0.6023757414929383
+
+Topic 2
+Top words:  ['chappelle', 'ride', 'turtles', 'teenage', 'gods', 'sing', 'free', 'fallen', 'plan', 'has']
+Coherence: 0.5054371494124141
+
+Topic 3
+Top words:  ['runner', 'chapter', 'chi', 'place', 'was', 'hound', 'bird', 'truth', 'guys', 'comes']
+Coherence: 0.6003087781224127
+
+Topic 4
+Top words:  ['avengers', 'furious', 'guardians', 'justice', 'brain', 'sword', 'short', 'as', 'gone', 'sisters']
+Coherence: 0.6035746685019168
+
+Topic 5
+Top words:  ['kung', 'scooby', 'doo', 'pooh', 'winnie', 'woods', 'mars', 'killing', 'behind', 'wo']
+Coherence: 0.49397298418317853
+
+----------------------------------------------------------------------------

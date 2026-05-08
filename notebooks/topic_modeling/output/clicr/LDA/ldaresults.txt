@@ -1,0 +1,761 @@
+Hyper-parameters: 
+Resulting Topics: 1	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.6039291746797237
+Topic 0
+Top words:  ['neglected', 'control', 'breathlessness', 'excision', 'glue', 'hyperthyroidism', 'closed', 'branch', 'testis', 'calcific']
+Coherence: 0.6039291746797237
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5872624962027501
+Topic 0
+Top words:  ['phenytoin', 'confirmed', 'burns', 'found', 'ulceration', 'route', 'located', 'kyphoscoliosis', 'nephrotic', 'clear']
+Coherence: 0.5895855304663234
+
+Topic 1
+Top words:  ['hyperthyroidism', 'malaria', 'appendicectomy', 'calcific', 'emboli', 'myelitis', 'stridor', 'food', 'presumed', 'diverter']
+Coherence: 0.5985990801697387
+
+Topic 2
+Top words:  ['neglected', 'closed', 'fourth', 'zone', 'chylothorax', 'scleroderma', 'medullary', 'osler', 'infancy', 'dasatinib']
+Coherence: 0.5983989266477827
+
+Topic 3
+Top words:  ['breathlessness', 'calcium', 'adrenocortical', 'seems', 'reactive', 'cuff', 'ulnar', 'henoch', 'ventriculoperitoneal', 'auditory']
+Coherence: 0.6010062791318086
+
+Topic 4
+Top words:  ['control', 'testis', 'branch', 'spondylodiscitis', 'tremor', 'submandibular', 'producing', 'nodes', 'reversed', 'globe']
+Coherence: 0.5379177252692888
+
+Topic 5
+Top words:  ['excision', 'spindle', 'proven', 'thymic', 'lyme', 'neuropathic', 'urine', 'histological', 'transection', 'palsies']
+Coherence: 0.5980674355315585
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.569554686006995
+Topic 0
+Top words:  ['stridor', 'tremor', 'chylothorax', 'found', 'globe', 'dasatinib', 'seems', 'fibroelastoma', 'burkholderia', 'epileptic']
+Coherence: 0.5833935411783343
+
+Topic 1
+Top words:  ['excision', 'hyperthyroidism', 'zone', 'confirmed', 'presumed', 'neuropathic', 'elusive', 'palsies', 'blast', 'sinuses']
+Coherence: 0.5578207935771731
+
+Topic 2
+Top words:  ['neglected', 'branch', 'adrenocortical', 'fourth', 'implantable', 'proven', 'lyme', 'burns', 'scleral', 'route']
+Coherence: 0.5984887547036317
+
+Topic 3
+Top words:  ['breathlessness', 'testis', 'appendicectomy', 'calcific', 'spindle', 'myelitis', 'submandibular', 'scleroderma', 'ulceration', 'compaction']
+Coherence: 0.5996874044037785
+
+Topic 4
+Top words:  ['malaria', 'reversed', 'medullary', 'nodes', 'thymic', 'infancy', 'accompanied', 'kyphoscoliosis', 'nephrotic', 'thymolipoma']
+Coherence: 0.5474855948673814
+
+Topic 5
+Top words:  ['control', 'glue', 'closed', 'calcium', 'emboli', 'spondylodiscitis', 'phenytoin', 'food', 'producing', 'mucosa']
+Coherence: 0.5304520273116712
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5681148408407185
+Topic 0
+Top words:  ['hyperthyroidism', 'scleroderma', 'found', 'neuropathic', 'unstable', 'burkholderia', 'transection', 'lie', 'glue', 'procedural']
+Coherence: 0.4942612108499843
+
+Topic 1
+Top words:  ['appendicectomy', 'stridor', 'food', 'temporomandibular', 'axial', 'diverter', 'gross', 'palsies', 'accompanied', 'precipitated']
+Coherence: 0.5804618687701639
+
+Topic 2
+Top words:  ['control', 'calcific', 'emboli', 'myelitis', 'tremor', 'producing', 'nodes', 'zone', 'globe', 'urine']
+Coherence: 0.5659774553590347
+
+Topic 3
+Top words:  ['neglected', 'closed', 'excision', 'malaria', 'calcium', 'proven', 'adrenocortical', 'histological', 'compaction', 'located']
+Coherence: 0.5990201337474862
+
+Topic 4
+Top words:  ['breathlessness', 'branch', 'phenytoin', 'osler', 'ulceration', 'chylothorax', 'thymic', 'elusive', 'epileptic', 'scleral']
+Coherence: 0.5667752045751566
+
+Topic 5
+Top words:  ['testis', 'spindle', 'spondylodiscitis', 'fourth', 'implantable', 'submandibular', 'mucosa', 'confirmed', 'medullary', 'burns']
+Coherence: 0.6021931717424853
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5575422461342301
+Topic 0
+Top words:  ['closed', 'testis', 'calcium', 'found', 'mimicker', 'colo', 'gastroschisis', 'thymolipoma', 'vestibular', 'clear']
+Coherence: 0.5412275045660653
+
+Topic 1
+Top words:  ['lyme', 'burns', 'zone', 'axial', 'urine', 'temporomandibular', 'blast', 'glycaemic', 'located', 'spondylitis']
+Coherence: 0.5211386791497958
+
+Topic 2
+Top words:  ['control', 'excision', 'branch', 'adrenocortical', 'calcific', 'emboli', 'submandibular', 'scleroderma', 'producing', 'confirmed']
+Coherence: 0.5350859416694005
+
+Topic 3
+Top words:  ['neglected', 'breathlessness', 'mucosa', 'osler', 'globe', 'dasatinib', 'elusive', 'histological', 'compaction', 'scleral']
+Coherence: 0.59103348878633
+
+Topic 4
+Top words:  ['hyperthyroidism', 'phenytoin', 'stridor', 'tremor', 'food', 'chylothorax', 'proven', 'medullary', 'nodes', 'seems']
+Coherence: 0.5648109895617208
+
+Topic 5
+Top words:  ['glue', 'malaria', 'appendicectomy', 'spindle', 'spondylodiscitis', 'fourth', 'myelitis', 'thymic', 'diverter', 'unstable']
+Coherence: 0.5919568730720679
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5539733743142392
+Topic 0
+Top words:  ['glue', 'malaria', 'emboli', 'calcium', 'phenytoin', 'myelitis', 'food', 'nodes', 'seems', 'precipitated']
+Coherence: 0.557099486468185
+
+Topic 1
+Top words:  ['excision', 'closed', 'stridor', 'submandibular', 'elusive', 'fibroelastoma', 'compaction', 'located', 'glycaemic', 'von']
+Coherence: 0.48584642601398337
+
+Topic 2
+Top words:  ['neglected', 'breathlessness', 'spondylodiscitis', 'burns', 'found', 'dasatinib', 'histological', 'infancy', 'unstable', 'burkholderia']
+Coherence: 0.5590597247226986
+
+Topic 3
+Top words:  ['control', 'hyperthyroidism', 'testis', 'adrenocortical', 'appendicectomy', 'scleroderma', 'producing', 'medullary', 'osler', 'thymic']
+Coherence: 0.5333466235870306
+
+Topic 4
+Top words:  ['calcific', 'proven', 'mucosa', 'confirmed', 'temporomandibular', 'neuropathic', 'gross', 'transection', 'lyme', 'scleral']
+Coherence: 0.5913814369456887
+
+Topic 5
+Top words:  ['branch', 'spindle', 'fourth', 'tremor', 'reversed', 'osteochondroma', 'vestibular', 'decreased', 'extremity', 'haemorrhages']
+Coherence: 0.5971065481478492
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5818729710652383
+Topic 0
+Top words:  ['calcium', 'calcific', 'medullary', 'thymic', 'temporomandibular', 'found', 'dasatinib', 'seems', 'epileptic', 'route']
+Coherence: 0.5870027122571237
+
+Topic 1
+Top words:  ['breathlessness', 'hyperthyroidism', 'appendicectomy', 'spondylodiscitis', 'submandibular', 'scleroderma', 'burns', 'osler', 'reversed', 'infancy']
+Coherence: 0.6018861660729107
+
+Topic 2
+Top words:  ['excision', 'closed', 'testis', 'spindle', 'myelitis', 'stridor', 'food', 'nodes', 'scleral', 'located']
+Coherence: 0.5968790860037967
+
+Topic 3
+Top words:  ['malaria', 'mucosa', 'chylothorax', 'globe', 'urine', 'histological', 'unstable', 'burkholderia', 'transection', 'palsies']
+Coherence: 0.5933976841959779
+
+Topic 4
+Top words:  ['neglected', 'control', 'glue', 'branch', 'emboli', 'phenytoin', 'tremor', 'producing', 'neuropathic', 'gross']
+Coherence: 0.5237240259106409
+
+Topic 5
+Top words:  ['adrenocortical', 'fourth', 'proven', 'confirmed', 'zone', 'compaction', 'axial', 'blast', 'kyphoscoliosis', 'decreased']
+Coherence: 0.5883481519509798
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.565060637361786
+Topic 0
+Top words:  ['excision', 'zone', 'osler', 'neuropathic', 'diverter', 'blast', 'stercoral', 'off', 'extremity', 'fdg']
+Coherence: 0.5561702988367012
+
+Topic 1
+Top words:  ['control', 'breathlessness', 'calcium', 'phenytoin', 'stridor', 'reversed', 'producing', 'infancy', 'found', 'dasatinib']
+Coherence: 0.49858281652039693
+
+Topic 2
+Top words:  ['neglected', 'spondylodiscitis', 'calcific', 'tremor', 'proven', 'mucosa', 'confirmed', 'nodes', 'ulceration', 'elusive']
+Coherence: 0.6031963746356542
+
+Topic 3
+Top words:  ['hyperthyroidism', 'closed', 'malaria', 'spindle', 'fourth', 'adrenocortical', 'lyme', 'food', 'scleroderma', 'chylothorax']
+Coherence: 0.6050966251898438
+
+Topic 4
+Top words:  ['testis', 'branch', 'appendicectomy', 'emboli', 'submandibular', 'axial', 'scleral', 'scoliosis', 'route', 'kyphoscoliosis']
+Coherence: 0.5820515976649322
+
+Topic 5
+Top words:  ['myelitis', 'medullary', 'burns', 'thymic', 'globe', 'unstable', 'accompanied', 'palsies', 'sinuses', 'limbal']
+Coherence: 0.5452661113231885
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 1	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.6039291746797237
+Topic 0
+Top words:  ['neglected', 'control', 'breathlessness', 'excision', 'glue', 'hyperthyroidism', 'closed', 'testis', 'branch', 'calcific']
+Coherence: 0.6039291746797237
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 3	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5516788741020849
+Topic 0
+Top words:  ['excision', 'testis', 'fourth', 'spondylodiscitis', 'lyme', 'myelitis', 'tremor', 'scleroderma', 'burns', 'submandibular']
+Coherence: 0.5399874919474531
+
+Topic 1
+Top words:  ['control', 'breathlessness', 'hyperthyroidism', 'closed', 'malaria', 'adrenocortical', 'calcium', 'spindle', 'phenytoin', 'food']
+Coherence: 0.6076838272148247
+
+Topic 2
+Top words:  ['neglected', 'branch', 'appendicectomy', 'emboli', 'stridor', 'chylothorax', 'mucosa', 'zone', 'osler', 'nodes']
+Coherence: 0.507365303143977
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 3	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5912454055764172
+Topic 0
+Top words:  ['neglected', 'excision', 'closed', 'malaria', 'emboli', 'spondylodiscitis', 'spindle', 'phenytoin', 'stridor', 'myelitis']
+Coherence: 0.6070445754346816
+
+Topic 1
+Top words:  ['control', 'breathlessness', 'hyperthyroidism', 'fourth', 'tremor', 'proven', 'osler', 'producing', 'infancy', 'dasatinib']
+Coherence: 0.5635192595011892
+
+Topic 2
+Top words:  ['branch', 'testis', 'calcium', 'appendicectomy', 'lyme', 'nodes', 'ulceration', 'implantable', 'seems', 'adrenocortical']
+Coherence: 0.603172381793381
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5785364681514458
+Topic 0
+Top words:  ['control', 'calcium', 'adrenocortical', 'phenytoin', 'food', 'producing', 'osler', 'thymic', 'fibroelastoma', 'diverter']
+Coherence: 0.5636695159701302
+
+Topic 1
+Top words:  ['hyperthyroidism', 'closed', 'testis', 'malaria', 'spindle', 'fourth', 'zone', 'stridor', 'implantable', 'tremor']
+Coherence: 0.6056759112035286
+
+Topic 2
+Top words:  ['breathlessness', 'excision', 'appendicectomy', 'myelitis', 'scleroderma', 'reversed', 'dasatinib', 'presumed', 'neuropathic', 'urine']
+Coherence: 0.5940350625641283
+
+Topic 3
+Top words:  ['neglected', 'calcific', 'proven', 'submandibular', 'nodes', 'ulceration', 'transection', 'infancy', 'touraine', 'limbal']
+Coherence: 0.5963266793681333
+
+Topic 4
+Top words:  ['emboli', 'spondylodiscitis', 'confirmed', 'burns', 'temporomandibular', 'elusive', 'route', 'fdg', 'pregabalin', 'confusion']
+Coherence: 0.5214158917943534
+
+Topic 5
+Top words:  ['branch', 'lyme', 'chylothorax', 'mucosa', 'found', 'seems', 'epileptic', 'scleral', 'scoliosis', 'nephrotic']
+Coherence: 0.590095748008401
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5789928319122334
+Topic 0
+Top words:  ['breathlessness', 'testis', 'scleroderma', 'medullary', 'mucosa', 'thymic', 'gross', 'located', 'scoliosis', 'gastroschisis']
+Coherence: 0.5462508061275738
+
+Topic 1
+Top words:  ['neglected', 'control', 'fourth', 'stridor', 'food', 'zone', 'chylothorax', 'submandibular', 'producing', 'burns']
+Coherence: 0.56713229851223
+
+Topic 2
+Top words:  ['hyperthyroidism', 'lyme', 'osler', 'elusive', 'unstable', 'epileptic', 'palsies', 'blast', 'stercoral', 'kyphoscoliosis']
+Coherence: 0.5824346127180036
+
+Topic 3
+Top words:  ['glue', 'closed', 'calcium', 'calcific', 'spindle', 'phenytoin', 'proven', 'reversed', 'found', 'globe']
+Coherence: 0.5944672373728009
+
+Topic 4
+Top words:  ['branch', 'malaria', 'tremor', 'nodes', 'temporomandibular', 'seems', 'presumed', 'axial', 'transection', 'accompanied']
+Coherence: 0.5889777920263042
+
+Topic 5
+Top words:  ['excision', 'appendicectomy', 'adrenocortical', 'emboli', 'spondylodiscitis', 'myelitis', 'confirmed', 'dasatinib', 'neuropathic', 'glycaemic']
+Coherence: 0.5946942447164879
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5728881521333619
+Topic 0
+Top words:  ['control', 'excision', 'proven', 'reversed', 'producing', 'confirmed', 'dasatinib', 'neuropathic', 'burkholderia', 'scleral']
+Coherence: 0.524610967458926
+
+Topic 1
+Top words:  ['branch', 'adrenocortical', 'mucosa', 'nodes', 'thymic', 'globe', 'epileptic', 'scoliosis', 'kyphoscoliosis', 'osteochondroma']
+Coherence: 0.5901510961616299
+
+Topic 2
+Top words:  ['neglected', 'breathlessness', 'emboli', 'spondylodiscitis', 'fourth', 'tremor', 'burns', 'axial', 'diverter', 'fibroelastoma']
+Coherence: 0.5617213790961254
+
+Topic 3
+Top words:  ['testis', 'phenytoin', 'lyme', 'food', 'zone', 'found', 'presumed', 'gross', 'implantable', 'histological']
+Coherence: 0.6000160798019539
+
+Topic 4
+Top words:  ['malaria', 'appendicectomy', 'spindle', 'myelitis', 'chylothorax', 'submandibular', 'osler', 'stercoral', 'temporomandibular', 'nephrotic']
+Coherence: 0.5940860187287358
+
+Topic 5
+Top words:  ['hyperthyroidism', 'closed', 'calcium', 'calcific', 'stridor', 'scleroderma', 'medullary', 'infancy', 'ulceration', 'seems']
+Coherence: 0.5667433715528004
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5794290291839481
+Topic 0
+Top words:  ['closed', 'malaria', 'myelitis', 'calcific', 'chylothorax', 'proven', 'medullary', 'osler', 'found', 'burkholderia']
+Coherence: 0.5960924034375792
+
+Topic 1
+Top words:  ['hyperthyroidism', 'appendicectomy', 'spindle', 'phenytoin', 'stridor', 'reversed', 'thymic', 'ulceration', 'diverter', 'compaction']
+Coherence: 0.5658576684596959
+
+Topic 2
+Top words:  ['emboli', 'scleroderma', 'mucosa', 'scleral', 'route', 'kyphoscoliosis', 'limbal', 'osteochondroma', 'haemorrhages', 'incisors']
+Coherence: 0.5925585843620353
+
+Topic 3
+Top words:  ['neglected', 'testis', 'spondylodiscitis', 'tremor', 'burns', 'lyme', 'globe', 'dasatinib', 'gross', 'lie']
+Coherence: 0.5931463435454921
+
+Topic 4
+Top words:  ['control', 'calcium', 'food', 'submandibular', 'producing', 'confirmed', 'nodes', 'presumed', 'neuropathic', 'elusive']
+Coherence: 0.5620219597711712
+
+Topic 5
+Top words:  ['breathlessness', 'excision', 'branch', 'adrenocortical', 'fourth', 'implantable', 'infancy', 'seems', 'temporomandibular', 'urine']
+Coherence: 0.5668972155277152
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5825776452355779
+Topic 0
+Top words:  ['spindle', 'fourth', 'chylothorax', 'medullary', 'thymic', 'epileptic', 'diverter', 'fibroelastoma', 'unstable', 'elusive']
+Coherence: 0.5888319704577408
+
+Topic 1
+Top words:  ['neglected', 'hyperthyroidism', 'phenytoin', 'stridor', 'ulceration', 'temporomandibular', 'found', 'seems', 'blast', 'acetabular']
+Coherence: 0.5907799445471138
+
+Topic 2
+Top words:  ['malaria', 'calcific', 'urine', 'breathlessness', 'scleral', 'scoliosis', 'kyphoscoliosis', 'vestibular', 'incisors', 'demonstration']
+Coherence: 0.58453098039954
+
+Topic 3
+Top words:  ['control', 'branch', 'testis', 'calcium', 'myelitis', 'implantable', 'food', 'proven', 'submandibular', 'producing']
+Coherence: 0.5684269677978026
+
+Topic 4
+Top words:  ['excision', 'closed', 'glue', 'adrenocortical', 'appendicectomy', 'mucosa', 'reversed', 'confirmed', 'osler', 'dasatinib']
+Coherence: 0.5961165104892195
+
+Topic 5
+Top words:  ['emboli', 'spondylodiscitis', 'tremor', 'scleroderma', 'axial', 'presumed', 'palsies', 'clear', 'subluxation', 'caucasian']
+Coherence: 0.5667794977220499
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.569650172734497
+Topic 0
+Top words:  ['breathlessness', 'excision', 'closed', 'appendicectomy', 'calcific', 'adrenocortical', 'stridor', 'ulceration', 'found', 'fibroelastoma']
+Coherence: 0.5990665745517758
+
+Topic 1
+Top words:  ['testis', 'myelitis', 'implantable', 'medullary', 'blast', 'limbal', 'gastroschisis', 'mimicker', 'schizophrenia', 'anaphylactic']
+Coherence: 0.5549232373610603
+
+Topic 2
+Top words:  ['neglected', 'hyperthyroidism', 'branch', 'calcium', 'spindle', 'zone', 'food', 'nodes', 'burns', 'lyme']
+Coherence: 0.6065353918582789
+
+Topic 3
+Top words:  ['emboli', 'proven', 'reversed', 'osler', 'infancy', 'dasatinib', 'neuropathic', 'palsies', 'precipitated', 'stercoral']
+Coherence: 0.5459766697651668
+
+Topic 4
+Top words:  ['fourth', 'scleroderma', 'confirmed', 'thymic', 'globe', 'presumed', 'urine', 'gross', 'located', 'thymolipoma']
+Coherence: 0.5478994915120442
+
+Topic 5
+Top words:  ['control', 'malaria', 'spondylodiscitis', 'phenytoin', 'tremor', 'submandibular', 'chylothorax', 'producing', 'seems', 'unstable']
+Coherence: 0.5634996713586563
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.581269813930068
+Topic 0
+Top words:  ['control', 'branch', 'calcific', 'food', 'chylothorax', 'proven', 'implantable', 'scleroderma', 'producing', 'osler']
+Coherence: 0.5685930238211576
+
+Topic 1
+Top words:  ['closed', 'appendicectomy', 'spondylodiscitis', 'reversed', 'fibroelastoma', 'compaction', 'unstable', 'burkholderia', 'transection', 'elusive']
+Coherence: 0.5552421436764075
+
+Topic 2
+Top words:  ['breathlessness', 'excision', 'hyperthyroidism', 'spindle', 'phenytoin', 'tremor', 'medullary', 'ulceration', 'presumed', 'neuropathic']
+Coherence: 0.5990665745517758
+
+Topic 3
+Top words:  ['neglected', 'testis', 'malaria', 'stridor', 'submandibular', 'burns', 'temporomandibular', 'scleral', 'kyphoscoliosis', 'touraine']
+Coherence: 0.5870461271484088
+
+Topic 4
+Top words:  ['emboli', 'fourth', 'confirmed', 'lyme', 'seems', 'diverter', 'histological', 'glycaemic', 'scoliosis', 'anaphylactic']
+Coherence: 0.5821866315247132
+
+Topic 5
+Top words:  ['adrenocortical', 'myelitis', 'nodes', 'infancy', 'found', 'dasatinib', 'urine', 'epileptic', 'gross', 'palsies']
+Coherence: 0.5954843828579458
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.570566577913291
+Topic 0
+Top words:  ['branch', 'medullary', 'temporomandibular', 'found', 'globe', 'axial', 'neuropathic', 'gross', 'burkholderia', 'blast']
+Coherence: 0.580691837150131
+
+Topic 1
+Top words:  ['food', 'proven', 'thymic', 'elusive', 'diverter', 'unstable', 'scleral', 'route', 'sinuses', 'glycaemic']
+Coherence: 0.5801160253052865
+
+Topic 2
+Top words:  ['neglected', 'breathlessness', 'scleroderma', 'transection', 'kyphoscoliosis', 'vestibular', 'decreased', 'population', 'confusion', 'reactive']
+Coherence: 0.5894049723488202
+
+Topic 3
+Top words:  ['control', 'closed', 'testis', 'malaria', 'spondylodiscitis', 'fourth', 'tremor', 'chylothorax', 'producing', 'nodes']
+Coherence: 0.5372228479916533
+
+Topic 4
+Top words:  ['hyperthyroidism', 'appendicectomy', 'spindle', 'emboli', 'stridor', 'zone', 'mucosa', 'infancy', 'dasatinib', 'seems']
+Coherence: 0.5644994723420103
+
+Topic 5
+Top words:  ['excision', 'calcific', 'adrenocortical', 'phenytoin', 'myelitis', 'implantable', 'submandibular', 'burns', 'reversed', 'confirmed']
+Coherence: 0.5714643123418451
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5528637496635643
+Topic 0
+Top words:  ['spindle', 'calcium', 'chylothorax', 'temporomandibular', 'found', 'neuropathic', 'burns', 'burkholderia', 'transection', 'palsies']
+Coherence: 0.5921621861309131
+
+Topic 1
+Top words:  ['excision', 'calcific', 'confirmed', 'nodes', 'osler', 'axial', 'globe', 'urine', 'accompanied', 'precipitated']
+Coherence: 0.554188743205726
+
+Topic 2
+Top words:  ['branch', 'spondylodiscitis', 'proven', 'scleroderma', 'lyme', 'presumed', 'elusive', 'route', 'lie', 'mimicker']
+Coherence: 0.5601966923299109
+
+Topic 3
+Top words:  ['control', 'breathlessness', 'phenytoin', 'tremor', 'submandibular', 'producing', 'reversed', 'thymic', 'dasatinib', 'zone']
+Coherence: 0.500033267522022
+
+Topic 4
+Top words:  ['neglected', 'closed', 'glue', 'malaria', 'appendicectomy', 'emboli', 'fourth', 'myelitis', 'mucosa', 'medullary']
+Coherence: 0.5615369416135094
+
+Topic 5
+Top words:  ['hyperthyroidism', 'testis', 'adrenocortical', 'stridor', 'food', 'fibroelastoma', 'located', 'gastroschisis', 'vestibular', 'activity']
+Coherence: 0.5490646671793045
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5786134879252923
+Topic 0
+Top words:  ['glue', 'hyperthyroidism', 'testis', 'branch', 'malaria', 'emboli', 'stridor', 'chylothorax', 'burns', 'elusive']
+Coherence: 0.5662284793432877
+
+Topic 1
+Top words:  ['spondylodiscitis', 'dasatinib', 'seems', 'mucosa', 'acetabular', 'touraine', 'decreased', 'schizophrenia', 'fdg', 'enteropathy']
+Coherence: 0.5552891398123581
+
+Topic 2
+Top words:  ['control', 'appendicectomy', 'fourth', 'zone', 'implantable', 'food', 'proven', 'submandibular', 'producing', 'confirmed']
+Coherence: 0.5647623221636973
+
+Topic 3
+Top words:  ['closed', 'adrenocortical', 'spindle', 'tremor', 'scleroderma', 'compaction', 'axial', 'gross', 'route', 'limbal']
+Coherence: 0.5958203990673087
+
+Topic 4
+Top words:  ['neglected', 'breathlessness', 'calcific', 'myelitis', 'osler', 'thymic', 'presumed', 'histological', 'palsies', 'blast']
+Coherence: 0.5987544035677184
+
+Topic 5
+Top words:  ['excision', 'calcium', 'phenytoin', 'reversed', 'medullary', 'nodes', 'found', 'neuropathic', 'fibroelastoma', 'burkholderia']
+Coherence: 0.5908261835973836
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.576975985313478
+Topic 0
+Top words:  ['adrenocortical', 'spondylodiscitis', 'food', 'proven', 'globe', 'neuropathic', 'palsies', 'accompanied', 'located', 'recognition']
+Coherence: 0.5863076216519973
+
+Topic 1
+Top words:  ['neglected', 'branch', 'testis', 'calcific', 'fourth', 'scleroderma', 'found', 'presumed', 'histological', 'urine']
+Coherence: 0.6008764098861319
+
+Topic 2
+Top words:  ['control', 'appendicectomy', 'tremor', 'producing', 'mucosa', 'confirmed', 'infancy', 'seems', 'calcium', 'scleral']
+Coherence: 0.5615072553925072
+
+Topic 3
+Top words:  ['hyperthyroidism', 'closed', 'malaria', 'emboli', 'lyme', 'submandibular', 'reversed', 'nodes', 'axial', 'epileptic']
+Coherence: 0.601535886383825
+
+Topic 4
+Top words:  ['excision', 'stridor', 'chylothorax', 'ulceration', 'dasatinib', 'elusive', 'fibroelastoma', 'blast', 'breathlessness', 'kyphoscoliosis']
+Coherence: 0.5496447435406138
+
+Topic 5
+Top words:  ['spindle', 'myelitis', 'phenytoin', 'implantable', 'medullary', 'osler', 'thymic', 'burns', 'transection', 'stercoral']
+Coherence: 0.5619839950257924
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 2	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5691881417855156
+Topic 0
+Top words:  ['ankle', 'control', 'meningioma', 'graves', 'sheath', '21', 'involving', 'tracheostomy', 'branch', 'aorta']
+Coherence: 0.5994840741218044
+
+Topic 1
+Top words:  ['dual', 'based', 'cirrhosis', 'penetrating', 'duplication', 'major', 'appearance', 'bile', 'spondylodiscitis', 'myasthenia']
+Coherence: 0.5388922094492269
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5446420321276926
+Topic 0
+Top words:  ['duplication', 'major', 'zone', 'test', 'phenytoin', 'calcific', 'pneumoperitoneum', 'alcoholic', 'lens', 'needle']
+Coherence: 0.6003332924958787
+
+Topic 1
+Top words:  ['21', 'tracheostomy', 'viral', 'excision', 'brachial', 'tension', 'shoulder', 'cushing', 'dengue', 'nervous']
+Coherence: 0.5376231390344095
+
+Topic 2
+Top words:  ['food', 'nose', 'neglected', 'osler', 'scrotal', 'ulceration', 'unstable', 'insulin', 'glycaemic', 'sinuses']
+Coherence: 0.4870934845890524
+
+Topic 3
+Top words:  ['based', 'myasthenia', 'hyperthyroidism', 'confirmed', 'thymic', 'region', 'cranial', 'implantation', 'stercoral', 'intravascular']
+Coherence: 0.5200731643626436
+
+Topic 4
+Top words:  ['meningioma', 'ankle', 'dual', 'appearance', 'penetrating', 'bile', 'spondylodiscitis', 'aorta', 'burns', 'proven']
+Coherence: 0.5605275375958736
+
+Topic 5
+Top words:  ['control', 'graves', 'involving', 'sheath', 'branch', 'radial', 'malaria', 'tuberous', 'lyme', 'nodes']
+Coherence: 0.5622015746882976
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5314460261751308
+Topic 0
+Top words:  ['penetrating', 'aorta', 'epithelioid', 'food', 'calcific', 'excision', 'globe', 'region', 'ventricle', 'sinuses']
+Coherence: 0.5469753678664812
+
+Topic 1
+Top words:  ['meningioma', '21', 'major', 'spondylodiscitis', 'epidermal', 'topical', 'crisis', 'toxic', 'lens', 'scar']
+Coherence: 0.5084891200042632
+
+Topic 2
+Top words:  ['dual', 'myasthenia', 'glycaemic', 'insulin', 'extra', 'haemophilia', 'dengue', 'nervous', 'lump', 'beware']
+Coherence: 0.5518322922522023
+
+Topic 3
+Top words:  ['control', 'appearance', 'duplication', 'tracheostomy', 'hyperthyroidism', 'based', 'test', 'confirmed', 'burns', 'thymic']
+Coherence: 0.5305523002382448
+
+Topic 4
+Top words:  ['ankle', 'graves', 'bile', 'branch', 'malaria', 'zone', 'jugular', 'lyme', 'nodes', 'proven']
+Coherence: 0.5831220705735761
+
+Topic 5
+Top words:  ['images', 'viral', 'nose', 'brachial', 'accompanied', 'stricture', 'breathlessness', 'tension', 'thrombotic', 'thrombocytopenic']
+Coherence: 0.46770500611601695
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5401968922165938
+Topic 0
+Top words:  ['ankle', 'myasthenia', 'nose', 'calcific', 'neglected', 'nodes', 'ulceration', 'pseudocyst', 'topical', 'mycobacterium']
+Coherence: 0.5856797779514817
+
+Topic 1
+Top words:  ['major', 'zone', 'based', 'test', 'insulin', 'sinuses', 'glycaemic', 'tension', 'thrombocytopenic', 'thrombotic']
+Coherence: 0.47820466657813504
+
+Topic 2
+Top words:  ['meningioma', 'control', '21', 'tracheostomy', 'hyperthyroidism', 'dual', 'food', 'chylothorax', 'scrotal', 'urine']
+Coherence: 0.5292040318276442
+
+Topic 3
+Top words:  ['bile', 'aorta', 'radial', 'breathlessness', 'thymic', 'cirrhosis', 'osler', 'blast', 'stercoral', 'extra']
+Coherence: 0.5748059858809953
+
+Topic 4
+Top words:  ['branch', 'malaria', 'spondylodiscitis', 'lyme', 'phenytoin', 'sheath', 'globe', 'dialysis', 'implantation', 'lens']
+Coherence: 0.5501013148960763
+
+Topic 5
+Top words:  ['images', 'appearance', 'penetrating', 'duplication', 'viral', 'jugular', 'confirmed', 'burns', 'incidentally', 'proven']
+Coherence: 0.5231855761652306
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5756719639371871
+Topic 0
+Top words:  ['neglected', 'calcific', 'osler', 'found', 'thymic', 'route', 'stercoral', 'thymolipoma', 'colo', 'decreased']
+Coherence: 0.5420677356349612
+
+Topic 1
+Top words:  ['adrenocortical', 'spindle', 'stridor', 'food', 'submandibular', 'scleroderma', 'vestibular', 'glycaemic', 'bcg', 'reactive']
+Coherence: 0.5597509873116527
+
+Topic 2
+Top words:  ['control', 'testis', 'emboli', 'spondylodiscitis', 'fourth', 'implantable', 'proven', 'producing', 'globe', 'urine']
+Coherence: 0.5662942060877547
+
+Topic 3
+Top words:  ['breathlessness', 'appendicectomy', 'tremor', 'chylothorax', 'temporomandibular', 'seems', 'elusive', 'burkholderia', 'scleral', 'accurate']
+Coherence: 0.586130564210737
+
+Topic 4
+Top words:  ['malaria', 'lyme', 'myelitis', 'ulceration', 'burns', 'neuropathic', 'fibroelastoma', 'gross', 'zone', 'compaction']
+Coherence: 0.5942395720352842
+
+Topic 5
+Top words:  ['excision', 'hyperthyroidism', 'closed', 'branch', 'calcium', 'phenytoin', 'mucosa', 'confirmed', 'medullary', 'nodes']
+Coherence: 0.6055487183427329
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5754192070709391
+Topic 0
+Top words:  ['glue', 'emboli', 'fourth', 'tremor', 'submandibular', 'reversed', 'mucosa', 'dasatinib', 'burkholderia', 'mimicker']
+Coherence: 0.5546039673928507
+
+Topic 1
+Top words:  ['neglected', 'calcific', 'zone', 'confirmed', 'osler', 'infancy', 'histological', 'transection', 'urine', 'stercoral']
+Coherence: 0.5972446234260353
+
+Topic 2
+Top words:  ['control', 'branch', 'spindle', 'spondylodiscitis', 'myelitis', 'chylothorax', 'producing', 'thymic', 'globe', 'seems']
+Coherence: 0.564403565033295
+
+Topic 3
+Top words:  ['testis', 'stridor', 'food', 'scleroderma', 'gross', 'diverter', 'palsies', 'accompanied', 'located', 'sinuses']
+Coherence: 0.5819662078077799
+
+Topic 4
+Top words:  ['hyperthyroidism', 'malaria', 'lyme', 'proven', 'burns', 'neuropathic', 'axial', 'route', 'scoliosis', 'cutis']
+Coherence: 0.5529584008464998
+
+Topic 5
+Top words:  ['excision', 'breathlessness', 'closed', 'appendicectomy', 'adrenocortical', 'calcium', 'phenytoin', 'medullary', 'nodes', 'found']
+Coherence: 0.6013384779191734
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+Resulting Topics: 6	 TfIdf Threshold: 0.001	 Top Words: 10
+
+Total Coherence: 0.5711393902802163
+Topic 0
+Top words:  ['control', 'hyperthyroidism', 'calcium', 'fourth', 'tremor', 'producing', 'medullary', 'nodes', 'infancy', 'axial']
+Coherence: 0.5644216749881088
+
+Topic 1
+Top words:  ['myelitis', 'proven', 'mucosa', 'found', 'globe', 'presumed', 'unstable', 'compaction', 'scleral', 'route']
+Coherence: 0.5836803060704614
+
+Topic 2
+Top words:  ['malaria', 'appendicectomy', 'spindle', 'lyme', 'stridor', 'food', 'ulceration', 'zone', 'urine', 'epileptic']
+Coherence: 0.6019537090904258
+
+Topic 3
+Top words:  ['neglected', 'closed', 'branch', 'testis', 'calcific', 'implantable', 'confirmed', 'osler', 'neuropathic', 'temporomandibular']
+Coherence: 0.56884615906821
+
+Topic 4
+Top words:  ['excision', 'emboli', 'phenytoin', 'submandibular', 'chylothorax', 'reversed', 'burns', 'thymic', 'dasatinib', 'burkholderia']
+Coherence: 0.5637445155166521
+
+Topic 5
+Top words:  ['spondylodiscitis', 'adrenocortical', 'scleroderma', 'seems', 'elusive', 'diverter', 'fibroelastoma', 'glycaemic', 'located', 'kyphoscoliosis']
+Coherence: 0.54418997694744
+
+----------------------------------------------------------------------------

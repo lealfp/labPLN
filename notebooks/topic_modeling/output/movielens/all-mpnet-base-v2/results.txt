@@ -1,0 +1,916 @@
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 22, TfIdf Threshold: 0.01, cTfIdf Threshold: 0.9, Top Words: 10}
+Results: 
+{Number of topics: 1, Vocabulary length: 9154, Total Coherence: 0.3785914717614473}
+
+Topic 0
+Number of sentences: 9742
+Coherence: 0.3785914717614473
+Top Words: ['night', 'movie', 'film', 'my', 'noir', 'last', 'you', 'me', 'story', 'dead']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 22, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.9, Top Words: 10}
+Results: 
+{Number of topics: 1, Vocabulary length: 8733, Total Coherence: 0.6084505225350373}
+
+Topic 0
+Number of sentences: 9742
+Coherence: 0.6084505225350373
+Top Words: ['apes', 'furious', 'heat', 'thin', 'pie', 'drive', 'kings', 'ride', 'dracula', 'panther']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 15, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.9, Top Words: 10}
+Results: 
+{Number of topics: 3, Vocabulary length: 8634, Total Coherence: 0.5780928317900099}
+
+Topic 0
+Number of sentences: 3426
+Coherence: 0.5366064314584832
+Top Words: ['girls', 'women', 'go', 'pie', 'le', 'wedding', 'how', 'father', 'crazy', 'school']
+
+Topic 1
+Number of sentences: 4394
+Coherence: 0.6090864585362311
+Top Words: ['dragon', 'le', 'adventures', 'batman', 'doctor', 'doragon', 'bôru', 'ball', 'dogs', 'di']
+
+Topic 2
+Number of sentences: 1922
+Coherence: 0.5885856053753156
+Top Words: ['blood', 'frankenstein', 'halloween', 'dracula', 'fear', 'friday', 'amityville', 'elm', 'chainsaw', 'saw']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 80, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 1, Vocabulary length: 8733, Total Coherence: 0.6084505225350373}
+
+Topic 0
+Number of sentences: 9742
+Coherence: 0.6084505225350373
+Top Words: ['apes', 'furious', 'heat', 'thin', 'pie', 'drive', 'kings', 'ride', 'dracula', 'panther']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 15, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 3, Vocabulary length: 8625, Total Coherence: 0.556192861520371}
+
+Topic 0
+Number of sentences: 3426
+Coherence: 0.5366064314584831
+Top Words: ['girls', 'women', 'go', 'pie', 'le', 'wedding', 'how', 'father', 'school', 'crazy']
+
+Topic 1
+Number of sentences: 4394
+Coherence: 0.543386547727314
+Top Words: ['dragon', 'le', 'adventures', 'batman', 'doctor', 'bôru', 'doragon', 'ball', 'dogs', 'di']
+
+Topic 2
+Number of sentences: 1922
+Coherence: 0.5885856053753156
+Top Words: ['blood', 'frankenstein', 'halloween', 'dracula', 'fear', 'friday', 'amityville', 'chainsaw', 'elm', 'saw']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 80, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 1, Vocabulary length: 8733, Total Coherence: 0.6084505225350373}
+
+Topic 0
+Number of sentences: 9742
+Coherence: 0.6084505225350373
+Top Words: ['apes', 'furious', 'heat', 'thin', 'pie', 'drive', 'kings', 'ride', 'dracula', 'panther']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 80, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 1, Vocabulary length: 8743, Total Coherence: 0.6084505225350373}
+
+Topic 0
+Number of sentences: 9742
+Coherence: 0.6084505225350373
+Top Words: ['apes', 'furious', 'heat', 'thin', 'pie', 'drive', 'kings', 'ride', 'panther', 'dracula']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 80, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.9, Top Words: 10}
+Results: 
+{Number of topics: 1, Vocabulary length: 8733, Total Coherence: 0.6084505225350373}
+
+Topic 0
+Number of sentences: 9742
+Coherence: 0.6084505225350373
+Top Words: ['apes', 'furious', 'heat', 'thin', 'pie', 'drive', 'kings', 'ride', 'dracula', 'panther']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 80, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.9, Top Words: 10}
+Results: 
+{Number of topics: 1, Vocabulary length: 8743, Total Coherence: 0.6084505225350373}
+
+Topic 0
+Number of sentences: 9742
+Coherence: 0.6084505225350373
+Top Words: ['apes', 'furious', 'heat', 'thin', 'pie', 'drive', 'kings', 'ride', 'panther', 'dracula']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 80, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.9, Top Words: 10}
+Results: 
+{Number of topics: 1, Vocabulary length: 8743, Total Coherence: 0.6084505225350373}
+
+Topic 0
+Number of sentences: 9742
+Coherence: 0.6084505225350373
+Top Words: ['apes', 'furious', 'heat', 'thin', 'pie', 'drive', 'kings', 'ride', 'panther', 'dracula']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 80, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 1, Vocabulary length: 8743, Total Coherence: 0.6084505225350373}
+
+Topic 0
+Number of sentences: 9742
+Coherence: 0.6084505225350373
+Top Words: ['apes', 'furious', 'heat', 'thin', 'pie', 'drive', 'kings', 'ride', 'panther', 'dracula']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 15, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 2, Vocabulary length: 7770, Total Coherence: 0.5370066900522104}
+
+Topic 0
+Number of sentences: 6661
+Coherence: 0.5553083059998215
+Top Words: ['women', 'un', 'perfect', 'money', 'cat', 'beautiful', 'her', 'ice', 'play', 'zero']
+
+Topic 1
+Number of sentences: 3081
+Coherence: 0.5187050741045991
+Top Words: ['ghost', 'batman', 'sherlock', 'doragon', 'holmes', 'bôru', 'frankenstein', 'ninja', 'samurai', 'furious']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 10, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 3, Vocabulary length: 9042, Total Coherence: 0.5296837137624117}
+
+Topic 0
+Number of sentences: 6314
+Coherence: 0.5553083059998215
+Top Words: ['you', 'for', 'me', 'life', 'day', 'big', 'at', 'who', 'days', 'an']
+
+Topic 1
+Number of sentences: 3081
+Coherence: 0.5757327110047452
+Top Words: ['movie', 'ii', 'christmas', 'story', 'for', 'dragon', 'king', 'house', 'ghost', 'iii']
+
+Topic 2
+Number of sentences: 347
+Coherence: 0.4580101242826684
+Top Words: ['hunchback', 'notre', 'collector', 'rescuers', 'watcher', 'hustler', 'striped', 'crew', 'savages', 'signal']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 15, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 3, Vocabulary length: 8625, Total Coherence: 0.556192861520371}
+
+Topic 0
+Number of sentences: 3426
+Coherence: 0.5366064314584831
+Top Words: ['girls', 'women', 'go', 'pie', 'le', 'wedding', 'how', 'father', 'school', 'crazy']
+
+Topic 1
+Number of sentences: 4394
+Coherence: 0.543386547727314
+Top Words: ['dragon', 'le', 'adventures', 'batman', 'doctor', 'bôru', 'doragon', 'ball', 'dogs', 'di']
+
+Topic 2
+Number of sentences: 1922
+Coherence: 0.5885856053753156
+Top Words: ['blood', 'frankenstein', 'halloween', 'dracula', 'fear', 'friday', 'amityville', 'chainsaw', 'elm', 'saw']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 80, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 1, Vocabulary length: 8733, Total Coherence: 0.6084505225350373}
+
+Topic 0
+Number of sentences: 9742
+Coherence: 0.6084505225350373
+Top Words: ['apes', 'furious', 'heat', 'thin', 'pie', 'drive', 'kings', 'ride', 'dracula', 'panther']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 15, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 3, Vocabulary length: 8634, Total Coherence: 0.5676698659148224}
+
+Topic 0
+Number of sentences: 3426
+Coherence: 0.5366064314584832
+Top Words: ['girls', 'women', 'go', 'pie', 'le', 'wedding', 'how', 'father', 'crazy', 'school']
+
+Topic 1
+Number of sentences: 4394
+Coherence: 0.5778175609106684
+Top Words: ['dragon', 'le', 'adventures', 'batman', 'doctor', 'doragon', 'bôru', 'ball', 'dogs', 'di']
+
+Topic 2
+Number of sentences: 1922
+Coherence: 0.5885856053753156
+Top Words: ['blood', 'frankenstein', 'halloween', 'dracula', 'fear', 'friday', 'amityville', 'elm', 'chainsaw', 'saw']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 15, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 3, Vocabulary length: 8625, Total Coherence: 0.556192861520371}
+
+Topic 0
+Number of sentences: 3426
+Coherence: 0.5366064314584831
+Top Words: ['girls', 'women', 'go', 'pie', 'le', 'wedding', 'how', 'father', 'school', 'crazy']
+
+Topic 1
+Number of sentences: 4394
+Coherence: 0.543386547727314
+Top Words: ['dragon', 'le', 'adventures', 'batman', 'doctor', 'bôru', 'doragon', 'ball', 'dogs', 'di']
+
+Topic 2
+Number of sentences: 1922
+Coherence: 0.5885856053753156
+Top Words: ['blood', 'frankenstein', 'halloween', 'dracula', 'fear', 'friday', 'amityville', 'chainsaw', 'elm', 'saw']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 15, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 2, Vocabulary length: 7770, Total Coherence: 0.5370066900522104}
+
+Topic 0
+Number of sentences: 6661
+Coherence: 0.5553083059998215
+Top Words: ['women', 'un', 'perfect', 'money', 'cat', 'beautiful', 'her', 'ice', 'play', 'zero']
+
+Topic 1
+Number of sentences: 3081
+Coherence: 0.5187050741045991
+Top Words: ['ghost', 'batman', 'sherlock', 'doragon', 'holmes', 'bôru', 'frankenstein', 'ninja', 'samurai', 'furious']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 10, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 3, Vocabulary length: 9042, Total Coherence: 0.5296837137624117}
+
+Topic 0
+Number of sentences: 6314
+Coherence: 0.5553083059998215
+Top Words: ['you', 'for', 'me', 'life', 'day', 'big', 'at', 'who', 'days', 'an']
+
+Topic 1
+Number of sentences: 3081
+Coherence: 0.5757327110047452
+Top Words: ['movie', 'ii', 'christmas', 'story', 'for', 'dragon', 'king', 'house', 'ghost', 'iii']
+
+Topic 2
+Number of sentences: 347
+Coherence: 0.4580101242826684
+Top Words: ['hunchback', 'notre', 'collector', 'rescuers', 'watcher', 'hustler', 'striped', 'crew', 'savages', 'signal']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 10, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 8, Vocabulary length: 9113, Total Coherence: 0.5423775788803138}
+
+Topic 0
+Number of sentences: 1922
+Coherence: 0.5902862902044047
+Top Words: ['romance', 'fantasy', 'dead', 'noir', 'ii', 'frankenstein', 'halloween', 'death', 'dracula', 'blood']
+
+Topic 1
+Number of sentences: 1158
+Coherence: 0.4278210411180187
+Top Words: ['fantasy', 'romance', 'imax', 'christmas', 'dog', 'movie', 'dogs', 'asterix', 'snow', 'ice']
+
+Topic 2
+Number of sentences: 1146
+Coherence: 0.5707232210268207
+Top Words: ['fantasy', 'romance', 'imax', 'dragon', 'batman', 'bôru', 'doragon', 'ninja', 'iron', 'godzilla']
+
+Topic 3
+Number of sentences: 1785
+Coherence: 0.5549926900982907
+Top Words: ['romance', 'fantasy', 'la', 'doctor', 'noir', 'le', 'sherlock', 'holmes', 'trek', 'blue']
+
+Topic 4
+Number of sentences: 847
+Coherence: 0.5647085774136302
+Top Words: ['romance', 'fantasy', 'love', 'me', 'girl', 'girls', 'friends', 'like', 'go', 'just']
+
+Topic 5
+Number of sentences: 1538
+Coherence: 0.5413405309181885
+Top Words: ['romance', 'fantasy', 'love', 'pie', 'wedding', 'party', 'big', 'money', 'lampoon', 'house']
+
+Topic 6
+Number of sentences: 305
+Coherence: 0.5104901135256276
+Top Words: ['zeitgeist', 'planet', 'movie', 'blue', 'odyssey', 'marley', 'salt', 'baraka', 'dylan', 'kurt']
+
+Topic 7
+Number of sentences: 1041
+Coherence: 0.57865816673753
+Top Words: ['romance', 'fantasy', 'night', 'la', 'anna', 'hamlet', 'angel', 'angels', 'miracle', 'anne']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 12, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 6, Vocabulary length: 9055, Total Coherence: 0.5448019174170899}
+
+Topic 0
+Number of sentences: 3236
+Coherence: 0.5750328995632102
+Top Words: ['imax', 'la', 'dragon', 'batman', 'doctor', 'le', 'star', 'ii', 'bôru', 'doragon']
+
+Topic 1
+Number of sentences: 1158
+Coherence: 0.4278210411180187
+Top Words: ['imax', 'dog', 'christmas', 'movie', 'dogs', 'asterix', 'king', 'ice', 'snow', 'astérix']
+
+Topic 2
+Number of sentences: 1922
+Coherence: 0.5902862902044047
+Top Words: ['dead', 'ii', 'frankenstein', 'death', 'blood', 'halloween', 'dracula', 'final', 'imax', 'fear']
+
+Topic 3
+Number of sentences: 1041
+Coherence: 0.57865816673753
+Top Words: ['la', 'hamlet', 'anna', 'angels', 'angel', 'anne', 'henry', 'miracle', 'le', 'girl']
+
+Topic 4
+Number of sentences: 847
+Coherence: 0.5710615342551076
+Top Words: ['girl', 'girls', 'like', 'go', 'friends', 'just', 'women', 'anything', 'boys', 'emma']
+
+Topic 5
+Number of sentences: 1538
+Coherence: 0.5259515726242684
+Top Words: ['wedding', 'pie', 'party', 'father', 'money', 'movie', 'lampoon', 'ii', 'la', 'bride']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 12, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 6, Vocabulary length: 9055, Total Coherence: 0.5448019174170899}
+
+Topic 0
+Number of sentences: 3236
+Coherence: 0.5750328995632102
+Top Words: ['imax', 'la', 'dragon', 'batman', 'doctor', 'le', 'star', 'ii', 'bôru', 'doragon']
+
+Topic 1
+Number of sentences: 1158
+Coherence: 0.4278210411180187
+Top Words: ['imax', 'dog', 'christmas', 'movie', 'dogs', 'asterix', 'king', 'ice', 'snow', 'astérix']
+
+Topic 2
+Number of sentences: 1922
+Coherence: 0.5902862902044047
+Top Words: ['dead', 'ii', 'frankenstein', 'death', 'blood', 'halloween', 'dracula', 'final', 'imax', 'fear']
+
+Topic 3
+Number of sentences: 1041
+Coherence: 0.57865816673753
+Top Words: ['la', 'hamlet', 'anna', 'angels', 'angel', 'anne', 'henry', 'miracle', 'le', 'girl']
+
+Topic 4
+Number of sentences: 847
+Coherence: 0.5710615342551076
+Top Words: ['girl', 'girls', 'like', 'go', 'friends', 'just', 'women', 'anything', 'boys', 'emma']
+
+Topic 5
+Number of sentences: 1538
+Coherence: 0.5259515726242684
+Top Words: ['wedding', 'pie', 'party', 'father', 'money', 'movie', 'lampoon', 'ii', 'la', 'bride']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 12, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 6, Vocabulary length: 9069, Total Coherence: 0.5356736556532085}
+
+Topic 0
+Number of sentences: 3236
+Coherence: 0.5750328995632102
+Top Words: ['la', 'dragon', 'batman', 'doctor', 'le', 'star', 'ii', 'doragon', 'bôru', 'iron']
+
+Topic 1
+Number of sentences: 1158
+Coherence: 0.4278210411180187
+Top Words: ['dog', 'christmas', 'movie', 'dogs', 'asterix', 'king', 'ice', 'snow', 'doo', 'astérix']
+
+Topic 2
+Number of sentences: 1922
+Coherence: 0.5885856053753157
+Top Words: ['dead', 'ii', 'frankenstein', 'death', 'blood', 'halloween', 'dracula', 'final', 'fear', 'part']
+
+Topic 3
+Number of sentences: 1041
+Coherence: 0.5786581667375301
+Top Words: ['la', 'anna', 'hamlet', 'angels', 'angel', 'anne', 'henry', 'miracle', 'girl', 'le']
+
+Topic 4
+Number of sentences: 847
+Coherence: 0.5710615342551076
+Top Words: ['girl', 'girls', 'like', 'go', 'friends', 'just', 'women', 'anything', 'boys', 'said']
+
+Topic 5
+Number of sentences: 1538
+Coherence: 0.4728826868700685
+Top Words: ['wedding', 'pie', 'party', 'father', 'money', 'movie', 'lampoon', 'ii', 'la', 'bride']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 12, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 2, Vocabulary length: 7770, Total Coherence: 0.5370066900522104}
+
+Topic 0
+Number of sentences: 6661
+Coherence: 0.5553083059998215
+Top Words: ['women', 'un', 'perfect', 'money', 'cat', 'beautiful', 'her', 'ice', 'play', 'zero']
+
+Topic 1
+Number of sentences: 3081
+Coherence: 0.5187050741045991
+Top Words: ['ghost', 'batman', 'sherlock', 'doragon', 'holmes', 'bôru', 'frankenstein', 'ninja', 'samurai', 'furious']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 10, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 3, Vocabulary length: 9042, Total Coherence: 0.5296837137624117}
+
+Topic 0
+Number of sentences: 6314
+Coherence: 0.5553083059998215
+Top Words: ['you', 'for', 'me', 'life', 'day', 'big', 'at', 'who', 'days', 'an']
+
+Topic 1
+Number of sentences: 3081
+Coherence: 0.5757327110047452
+Top Words: ['movie', 'ii', 'christmas', 'story', 'for', 'dragon', 'king', 'house', 'ghost', 'iii']
+
+Topic 2
+Number of sentences: 347
+Coherence: 0.4580101242826684
+Top Words: ['hunchback', 'notre', 'collector', 'rescuers', 'watcher', 'hustler', 'striped', 'crew', 'savages', 'signal']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 9, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 6, Vocabulary length: 9132, Total Coherence: 0.4961272732006894}
+
+Topic 0
+Number of sentences: 3826
+Coherence: 0.4746591760313196
+Top Words: ['you', 'for', 'me', 'mr', 'big', 'high', 'girls', 'life', 'who', 'what']
+
+Topic 1
+Number of sentences: 1967
+Coherence: 0.595661341180992
+Top Words: ['dragon', 'christmas', 'ii', 'ghost', 'sherlock', 'house', 'ball', 'king', 'story', 'bôru']
+
+Topic 2
+Number of sentences: 1041
+Coherence: 0.4019411233243476
+Top Words: ['le', 'cat', 'un', 'les', 'blue', 'asterix', 'di', 'astérix', 'red', 'dog']
+
+Topic 3
+Number of sentences: 1447
+Coherence: 0.6003087781224127
+Top Words: ['sea', 'trek', 'day', 'star', 'moon', 'earth', 'summer', 'ice', 'planet', 'days']
+
+Topic 4
+Number of sentences: 1114
+Coherence: 0.5122901871802933
+Top Words: ['movie', 'batman', 'ii', 'godzilla', 'superman', 'ninja', 'furious', 'king', 'for', 'apes']
+
+Topic 5
+Number of sentences: 347
+Coherence: 0.39190303336477117
+Top Words: ['le', 'thing', 'hunchback', 'notre', 'trip', 'collector', 'dame', 'hunter', 'raven', 'crew']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 9, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 10, Vocabulary length: 9140, Total Coherence: 0.5131856218377873}
+
+Topic 0
+Number of sentences: 1158
+Coherence: 0.426348126263015
+Top Words: ['fantasy', 'romance', 'christmas', 'imax', 'dog', 'dogs', 'movie', 'asterix', 'snow', 'ice']
+
+Topic 1
+Number of sentences: 1785
+Coherence: 0.5549926900982907
+Top Words: ['romance', 'fantasy', 'la', 'de', 'doctor', 'le', 'sherlock', 'noir', 'blue', 'holmes']
+
+Topic 2
+Number of sentences: 1538
+Coherence: 0.5403447531661804
+Top Words: ['romance', 'love', 'fantasy', 'my', 'pie', 'it', 'party', 'wedding', 'big', 'money']
+
+Topic 3
+Number of sentences: 684
+Coherence: 0.28622026661814326
+Top Words: ['romance', 'dragon', 'no', 'fantasy', 'bôru', 'doragon', 'ball', 'ji', 'samurai', 'evangelion']
+
+Topic 4
+Number of sentences: 847
+Coherence: 0.5647085774136302
+Top Words: ['romance', 'love', 'fantasy', 'me', 'it', 'my', 'girl', 'girls', 'friends', 'two']
+
+Topic 5
+Number of sentences: 894
+Coherence: 0.5902862902044047
+Top Words: ['fantasy', 'romance', 'dead', 'frankenstein', 'halloween', 'dracula', 'ii', 'vampire', 'eye', 'elm']
+
+Topic 6
+Number of sentences: 305
+Coherence: 0.5049848754221044
+Top Words: ['zeitgeist', 'planet', 'blue', 'movie', 'odyssey', 'my', 'scientology', 'marley', 'qu', 'baraka']
+
+Topic 7
+Number of sentences: 1041
+Coherence: 0.57865816673753
+Top Words: ['romance', 'fantasy', 'night', 'la', 'hamlet', 'anna', 'angels', 'little', 'angel', 'miracle']
+
+Topic 8
+Number of sentences: 1028
+Coherence: 0.5694778925370347
+Top Words: ['romance', 'fantasy', 'noir', 'death', 'body', 'kill', 'murder', 'destination', 'gun', 'final']
+
+Topic 9
+Number of sentences: 462
+Coherence: 0.5158345799175397
+Top Words: ['imax', 'fantasy', 'batman', 'godzilla', 'furious', 'ninja', 'romance', 'turtles', 'mutant', 'wars']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 9, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 10, Vocabulary length: 9140, Total Coherence: 0.5131856218377873}
+
+Topic 0
+Number of sentences: 1158
+Coherence: 0.426348126263015
+Top Words: ['fantasy', 'romance', 'christmas', 'imax', 'dog', 'dogs', 'movie', 'asterix', 'snow', 'ice']
+
+Topic 1
+Number of sentences: 1785
+Coherence: 0.5549926900982907
+Top Words: ['romance', 'fantasy', 'la', 'de', 'doctor', 'le', 'sherlock', 'noir', 'blue', 'holmes']
+
+Topic 2
+Number of sentences: 1538
+Coherence: 0.5403447531661804
+Top Words: ['romance', 'love', 'fantasy', 'my', 'pie', 'it', 'party', 'wedding', 'big', 'money']
+
+Topic 3
+Number of sentences: 684
+Coherence: 0.28622026661814326
+Top Words: ['romance', 'dragon', 'no', 'fantasy', 'bôru', 'doragon', 'ball', 'ji', 'samurai', 'evangelion']
+
+Topic 4
+Number of sentences: 847
+Coherence: 0.5647085774136302
+Top Words: ['romance', 'love', 'fantasy', 'me', 'it', 'my', 'girl', 'girls', 'friends', 'two']
+
+Topic 5
+Number of sentences: 894
+Coherence: 0.5902862902044047
+Top Words: ['fantasy', 'romance', 'dead', 'frankenstein', 'halloween', 'dracula', 'ii', 'vampire', 'eye', 'elm']
+
+Topic 6
+Number of sentences: 305
+Coherence: 0.5049848754221044
+Top Words: ['zeitgeist', 'planet', 'blue', 'movie', 'odyssey', 'my', 'scientology', 'marley', 'qu', 'baraka']
+
+Topic 7
+Number of sentences: 1041
+Coherence: 0.57865816673753
+Top Words: ['romance', 'fantasy', 'night', 'la', 'hamlet', 'anna', 'angels', 'little', 'angel', 'miracle']
+
+Topic 8
+Number of sentences: 1028
+Coherence: 0.5694778925370347
+Top Words: ['romance', 'fantasy', 'noir', 'death', 'body', 'kill', 'murder', 'destination', 'gun', 'final']
+
+Topic 9
+Number of sentences: 462
+Coherence: 0.5158345799175397
+Top Words: ['imax', 'fantasy', 'batman', 'godzilla', 'furious', 'ninja', 'romance', 'turtles', 'mutant', 'wars']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 62, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 1, Vocabulary length: 18309, Total Coherence: 0.6084449664381916}
+
+Topic 0
+Number of sentences: 9743
+Coherence: 0.6084449664381916
+Top Words: ['furious', 'pie', 'heat', 'dracula', 'apes', 'rocky', 'elm', 'thin', 'rain', 'drive']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 13, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 3, Vocabulary length: 18163, Total Coherence: 0.5287369885547654}
+
+Topic 0
+Number of sentences: 5524
+Coherence: 0.5354954373464395
+Top Words: ['women', 'les', 'like', '1939', 'crazy', 'how', 'un', 'go', 'sex', 'mrs']
+
+Topic 1
+Number of sentences: 2369
+Coherence: 0.5205511381559342
+Top Words: ['batman', 'doragon', 'bôru', 'ball', 'godzilla', 'trek', 'furious', 'iron', 'ji', 'superman']
+
+Topic 2
+Number of sentences: 1850
+Coherence: 0.5301643901619226
+Top Words: ['sherlock', 'holmes', 'massacre', 'halloween', 'chainsaw', 'elm', 'watson', 'saw', 'nightmare', 'puppet']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 13, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 5, Vocabulary length: 8992, Total Coherence: 0.5422258769833496}
+
+Topic 0
+Number of sentences: 2385
+Coherence: 0.5438224571826445
+Top Words: ['pie', 'wedding', 'girls', 'girl', 'movie', 'women', 'like', 'go', 'party', 'father']
+
+Topic 1
+Number of sentences: 3236
+Coherence: 0.5722421145032393
+Top Words: ['imax', 'dragon', 'batman', 'star', 'le', 'doctor', 'bôru', 'doragon', 'iron', 'movie']
+
+Topic 2
+Number of sentences: 1922
+Coherence: 0.5885856053753157
+Top Words: ['frankenstein', 'blood', 'halloween', 'dracula', 'final', 'imax', 'fear', 'part', 'saw', 'hell']
+
+Topic 3
+Number of sentences: 1041
+Coherence: 0.57865816673753
+Top Words: ['anna', 'hamlet', 'miracle', 'angel', 'girl', 'le', 'anne', 'mother', 'henry', 'boys']
+
+Topic 4
+Number of sentences: 1158
+Coherence: 0.4278210411180187
+Top Words: ['imax', 'movie', 'dog', 'dogs', 'asterix', 'doo', 'astérix', 'ice', 'snow', 'adventures']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 15, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 3, Vocabulary length: 8625, Total Coherence: 0.556192861520371}
+
+Topic 0
+Number of sentences: 3426
+Coherence: 0.5366064314584831
+Top Words: ['girls', 'women', 'go', 'pie', 'le', 'wedding', 'how', 'father', 'school', 'crazy']
+
+Topic 1
+Number of sentences: 4394
+Coherence: 0.543386547727314
+Top Words: ['dragon', 'le', 'adventures', 'batman', 'doctor', 'bôru', 'doragon', 'ball', 'dogs', 'di']
+
+Topic 2
+Number of sentences: 1922
+Coherence: 0.5885856053753156
+Top Words: ['blood', 'frankenstein', 'halloween', 'dracula', 'fear', 'friday', 'amityville', 'chainsaw', 'elm', 'saw']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 15, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 3, Vocabulary length: 8625, Total Coherence: 0.556192861520371}
+
+Topic 0
+Number of sentences: 3426
+Coherence: 0.5366064314584831
+Top Words: ['girls', 'women', 'go', 'pie', 'le', 'wedding', 'how', 'father', 'school', 'crazy']
+
+Topic 1
+Number of sentences: 4394
+Coherence: 0.543386547727314
+Top Words: ['dragon', 'le', 'adventures', 'batman', 'doctor', 'bôru', 'doragon', 'ball', 'dogs', 'di']
+
+Topic 2
+Number of sentences: 1922
+Coherence: 0.5885856053753156
+Top Words: ['blood', 'frankenstein', 'halloween', 'dracula', 'fear', 'friday', 'amityville', 'chainsaw', 'elm', 'saw']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 13, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 5, Vocabulary length: 8992, Total Coherence: 0.5422258769833496}
+
+Topic 0
+Number of sentences: 2385
+Coherence: 0.5438224571826445
+Top Words: ['pie', 'wedding', 'girls', 'girl', 'movie', 'women', 'like', 'go', 'party', 'father']
+
+Topic 1
+Number of sentences: 3236
+Coherence: 0.5722421145032393
+Top Words: ['imax', 'dragon', 'batman', 'star', 'le', 'doctor', 'bôru', 'doragon', 'iron', 'movie']
+
+Topic 2
+Number of sentences: 1922
+Coherence: 0.5885856053753157
+Top Words: ['frankenstein', 'blood', 'halloween', 'dracula', 'final', 'imax', 'fear', 'part', 'saw', 'hell']
+
+Topic 3
+Number of sentences: 1041
+Coherence: 0.57865816673753
+Top Words: ['anna', 'hamlet', 'miracle', 'angel', 'girl', 'le', 'anne', 'mother', 'henry', 'boys']
+
+Topic 4
+Number of sentences: 1158
+Coherence: 0.4278210411180187
+Top Words: ['imax', 'movie', 'dog', 'dogs', 'asterix', 'doo', 'astérix', 'ice', 'snow', 'adventures']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 55, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 1, Vocabulary length: 8733, Total Coherence: 0.6084505225350373}
+
+Topic 0
+Number of sentences: 9742
+Coherence: 0.6084505225350373
+Top Words: ['apes', 'furious', 'heat', 'thin', 'pie', 'drive', 'kings', 'ride', 'dracula', 'panther']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 300, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 1, Vocabulary length: 8733, Total Coherence: 0.6084505225350373}
+
+Topic 0
+Number of sentences: 9742
+Coherence: 0.6084505225350373
+Top Words: ['apes', 'furious', 'heat', 'thin', 'pie', 'drive', 'kings', 'ride', 'dracula', 'panther']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 12, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 6, Vocabulary length: 9055, Total Coherence: 0.5448019174170899}
+
+Topic 0
+Number of sentences: 3236
+Coherence: 0.5750328995632102
+Top Words: ['imax', 'la', 'dragon', 'batman', 'doctor', 'le', 'star', 'ii', 'bôru', 'doragon']
+
+Topic 1
+Number of sentences: 1158
+Coherence: 0.4278210411180187
+Top Words: ['imax', 'dog', 'christmas', 'movie', 'dogs', 'asterix', 'king', 'ice', 'snow', 'astérix']
+
+Topic 2
+Number of sentences: 1922
+Coherence: 0.5902862902044047
+Top Words: ['dead', 'ii', 'frankenstein', 'death', 'blood', 'halloween', 'dracula', 'final', 'imax', 'fear']
+
+Topic 3
+Number of sentences: 1041
+Coherence: 0.57865816673753
+Top Words: ['la', 'hamlet', 'anna', 'angels', 'angel', 'anne', 'henry', 'miracle', 'le', 'girl']
+
+Topic 4
+Number of sentences: 847
+Coherence: 0.5710615342551076
+Top Words: ['girl', 'girls', 'like', 'go', 'friends', 'just', 'women', 'anything', 'boys', 'emma']
+
+Topic 5
+Number of sentences: 1538
+Coherence: 0.5259515726242684
+Top Words: ['wedding', 'pie', 'party', 'father', 'money', 'movie', 'lampoon', 'ii', 'la', 'bride']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 55, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 1, Vocabulary length: 8733, Total Coherence: 0.6084505225350373}
+
+Topic 0
+Number of sentences: 9742
+Coherence: 0.6084505225350373
+Top Words: ['apes', 'furious', 'heat', 'thin', 'pie', 'drive', 'kings', 'ride', 'dracula', 'panther']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 12, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 6, Vocabulary length: 9055, Total Coherence: 0.5448019174170899}
+
+Topic 0
+Number of sentences: 3236
+Coherence: 0.5750328995632102
+Top Words: ['imax', 'la', 'dragon', 'batman', 'doctor', 'le', 'star', 'ii', 'bôru', 'doragon']
+
+Topic 1
+Number of sentences: 1158
+Coherence: 0.4278210411180187
+Top Words: ['imax', 'dog', 'christmas', 'movie', 'dogs', 'asterix', 'king', 'ice', 'snow', 'astérix']
+
+Topic 2
+Number of sentences: 1922
+Coherence: 0.5902862902044047
+Top Words: ['dead', 'ii', 'frankenstein', 'death', 'blood', 'halloween', 'dracula', 'final', 'imax', 'fear']
+
+Topic 3
+Number of sentences: 1041
+Coherence: 0.57865816673753
+Top Words: ['la', 'hamlet', 'anna', 'angels', 'angel', 'anne', 'henry', 'miracle', 'le', 'girl']
+
+Topic 4
+Number of sentences: 847
+Coherence: 0.5710615342551076
+Top Words: ['girl', 'girls', 'like', 'go', 'friends', 'just', 'women', 'anything', 'boys', 'emma']
+
+Topic 5
+Number of sentences: 1538
+Coherence: 0.5259515726242684
+Top Words: ['wedding', 'pie', 'party', 'father', 'money', 'movie', 'lampoon', 'ii', 'la', 'bride']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 300, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 1, Vocabulary length: 8733, Total Coherence: 0.6084505225350373}
+
+Topic 0
+Number of sentences: 9742
+Coherence: 0.6084505225350373
+Top Words: ['apes', 'furious', 'heat', 'thin', 'pie', 'drive', 'kings', 'ride', 'dracula', 'panther']
+
+----------------------------------------------------------------------------
+Hyper-parameters: 
+{Language Model: all-mpnet-base-v2, Distance Threshold: 12, TfIdf Threshold: 0.001, cTfIdf Threshold: 0.99999, Top Words: 10}
+Results: 
+{Number of topics: 6, Vocabulary length: 9055, Total Coherence: 0.5448019174170899}
+
+Topic 0
+Number of sentences: 3236
+Coherence: 0.5750328995632102
+Top Words: ['imax', 'la', 'dragon', 'batman', 'doctor', 'le', 'star', 'ii', 'bôru', 'doragon']
+
+Topic 1
+Number of sentences: 1158
+Coherence: 0.4278210411180187
+Top Words: ['imax', 'dog', 'christmas', 'movie', 'dogs', 'asterix', 'king', 'ice', 'snow', 'astérix']
+
+Topic 2
+Number of sentences: 1922
+Coherence: 0.5902862902044047
+Top Words: ['dead', 'ii', 'frankenstein', 'death', 'blood', 'halloween', 'dracula', 'final', 'imax', 'fear']
+
+Topic 3
+Number of sentences: 1041
+Coherence: 0.57865816673753
+Top Words: ['la', 'hamlet', 'anna', 'angels', 'angel', 'anne', 'henry', 'miracle', 'le', 'girl']
+
+Topic 4
+Number of sentences: 847
+Coherence: 0.5710615342551076
+Top Words: ['girl', 'girls', 'like', 'go', 'friends', 'just', 'women', 'anything', 'boys', 'emma']
+
+Topic 5
+Number of sentences: 1538
+Coherence: 0.5259515726242684
+Top Words: ['wedding', 'pie', 'party', 'father', 'money', 'movie', 'lampoon', 'ii', 'la', 'bride']
+
+----------------------------------------------------------------------------
